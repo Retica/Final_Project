@@ -3,7 +3,9 @@ First Segment Deliverable
 <!--Project Overview: This info should be in the README.md -->
 * Selected topic: Analysis of house market crash in 2008 and current trends. We will look at the trends from 2008 and compare them to current trends. <br>
 * Reason they selected the topic: Our group has members who would like to buy homes in the near future . With  home prices rising drastically, we want to investigate if there will be a house market crash that was similar to 2008. <br>
-* Description of the source of data: The data was sourced from      https://www.fhfa.gov/DataTools/Downloads/Pages/House-Price-Index-Datasets.aspx
+* Description of the source of data: The data was sourced from      
+
+        https://www.fhfa.gov/DataTools/Downloads/Pages/House-Price-Index-Datasets.aspx
 
         https://catalog.data.gov/dataset?q=fhfa
 
