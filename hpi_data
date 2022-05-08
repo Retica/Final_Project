@@ -7,7 +7,7 @@
 --     gender VARCHAR NOT NULL,
 --     hire_date DATE NOT NULL,
 --     PRIMARY KEY (emp_no)
---);
+--);       	index_sa FLOAT NOT NULL
 
 
 -- use this as template. Adjust to what will be needed for the csv. then you create
@@ -15,14 +15,18 @@
 
 CREATE TABLE HPItype (
 	hpi_type VARCHAR (25) NOT NULL,
-	yr DATE NOT NULL,
 	hpi_flavor VARCHAR NOT NULL,
 	frequency VARCHAR NOT NULL,
 	level VARCHAR NOT NULL,
 	place_name VARCHAR (40) NOT NULL,
-	place_id VARCHAR (10) NOT NULL, 
+	place_id VARCHAR (10) NOT NULL,
+	yr VARCHAR NOT NULL,
 	period INT NOT NULL,
 	index_nsa FLOAT NOT NULL,
-	index_sa FLOAT NOT NULL
-	
+	index_sa FLOAT
 );
+
+DROP TABLE HPItype;
+
+SELECT * FROM HPItype;
+
