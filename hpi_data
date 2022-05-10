@@ -45,13 +45,73 @@ SELECT * FROM HPItype;
 
 SELECT hpi_type, hpi_flavor, frequency, level, place_name, 
 place_id, yr, period, index_nsa, index_sa
-INTO nineteen_table
+INTO ninetyone_table
 FROM hpitype
 WHERE (place_id BETWEEN '1991' AND '1991');
 
-SELECT * FROM nineteen_table;
+SELECT * FROM ninetyone_table;
 
 
+-- Table for 1992
+SELECT hpi_type, hpi_flavor, frequency, level, place_name, 
+place_id, yr, period, index_nsa, index_sa
+INTO ninetytwo_table
+FROM hpitype
+WHERE (place_id BETWEEN '1992' AND '1992');
+
+SELECT * FROM ninetytwo_table;
+
+--Table for 1993
+SELECT hpi_type, hpi_flavor, frequency, level, place_name, 
+place_id, yr, period, index_nsa, index_sa
+INTO ninetythree_table
+FROM hpitype
+WHERE (place_id BETWEEN '1993' AND '1993');
+
+SELECT * FROM ninetythree_table;
+
+-- Table for 1994
+SELECT hpi_type, hpi_flavor, frequency, level, place_name, 
+place_id, yr, period, index_nsa, index_sa
+INTO ninetyfour_table
+FROM hpitype
+WHERE (place_id BETWEEN '1994' AND '1994');
+
+SELECT * FROM ninetyfour_table;
+
+-- Table for 1995
+SELECT hpi_type, hpi_flavor, frequency, level, place_name, 
+place_id, yr, period, index_nsa, index_sa
+INTO ninetyfive_table
+FROM hpitype
+WHERE (place_id BETWEEN '1995' AND '1995');
+
+SELECT * FROM ninetyfive_table;
 
 
+-- Table for 1996
+SELECT hpi_type, hpi_flavor, frequency, level, place_name, 
+place_id, yr, period, index_nsa, index_sa
+INTO ninetysix_table
+FROM hpitype
+WHERE (place_id BETWEEN '1996' AND '1996');
 
+SELECT * FROM ninetysix_table;
+
+-- Table for 1997
+SELECT hpi_type, hpi_flavor, frequency, level, place_name, 
+place_id, yr, period, index_nsa, index_sa
+INTO ninetyseven_table
+FROM hpitype
+WHERE (place_id BETWEEN '1997' AND '1997');
+
+SELECT * FROM ninetyseven_table;
+
+-- Table for 1998
+SELECT hpi_type, hpi_flavor, frequency, level, place_name, 
+place_id, yr, period, index_nsa, index_sa
+INTO ninetyeight_table
+FROM hpitype
+WHERE (place_id BETWEEN '1998' AND '1998');
+
+SELECT * FROM ninetyeight_table;
