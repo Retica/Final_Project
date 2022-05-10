@@ -316,10 +316,32 @@ WHERE (place_id BETWEEN '2019' AND '2019');
 
 SELECT * FROM twothousandnineteen_table;
 
+-- Table for 2020
+SELECT hpi_type, hpi_flavor, frequency, level, place_name, 
+place_id, yr, period, index_nsa, index_sa
+INTO twothousandtwenty_table
+FROM hpitype
+WHERE (place_id BETWEEN '2020' AND '2020');
 
+SELECT * FROM twothousandtwenty_table;
 
+-- Table for 2021
+SELECT hpi_type, hpi_flavor, frequency, level, place_name, 
+place_id, yr, period, index_nsa, index_sa
+INTO twothousandtwentyone_table
+FROM hpitype
+WHERE (place_id BETWEEN '2021' AND '2021');
 
+SELECT * FROM twothousandtwentyone_table;
 
+-- Table for 2022
+SELECT hpi_type, hpi_flavor, frequency, level, place_name, 
+place_id, yr, period, index_nsa, index_sa
+INTO twothousandtwentytwo_table
+FROM hpitype
+WHERE (place_id BETWEEN '2022' AND '2022');
+
+SELECT * FROM twothousandtwentytwo_table;
 
 
 
