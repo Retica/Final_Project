@@ -11,7 +11,7 @@
 
 
 -- use this as template. Adjust to what will be needed for the csv. then you create
---table and should see in schemas and then should be able to add csv from there. --
+--CREATE table and should see in schemas and then should be able to add csv from there. --
 
 CREATE TABLE HPItype (
 	hpi_type VARCHAR (25) NOT NULL,
@@ -142,15 +142,6 @@ FROM hpitype
 WHERE (place_id BETWEEN '2001' AND '2001');
 
 SELECT * FROM twothousandone_table;
-
--- Table for 2002
-SELECT hpi_type, hpi_flavor, frequency, level, place_name, 
-place_id, yr, period, index_nsa, index_sa
-INTO twothousandtwo_table
-FROM hpitype
-WHERE (place_id BETWEEN '2002' AND '2002');
-
-SELECT * FROM twothousandtwo_table;
 
 -- Table for 2002
 SELECT hpi_type, hpi_flavor, frequency, level, place_name, 
