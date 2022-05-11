@@ -1,0 +1,1261 @@
+,hpi_type,hpi_flavor,frequency,level,place_name,place_id,yr,period,index_nsa,index_sa
+0,traditional,monthly,USA or Census Division,East North Central Division,DV_ENC,2012,purchase-only,1,154.11,156.68
+1,traditional,monthly,USA or Census Division,East North Central Division,DV_ENC,2012,purchase-only,2,154.36,156.74
+2,traditional,monthly,USA or Census Division,East North Central Division,DV_ENC,2012,purchase-only,3,156.39,157.81
+3,traditional,monthly,USA or Census Division,East North Central Division,DV_ENC,2012,purchase-only,4,159.36,158.53
+4,traditional,monthly,USA or Census Division,East North Central Division,DV_ENC,2012,purchase-only,5,163.1,159.79
+5,traditional,monthly,USA or Census Division,East North Central Division,DV_ENC,2012,purchase-only,6,164.46,159.98
+6,traditional,monthly,USA or Census Division,East North Central Division,DV_ENC,2012,purchase-only,7,164.56,159.95
+7,traditional,monthly,USA or Census Division,East North Central Division,DV_ENC,2012,purchase-only,8,164.82,160.86
+8,traditional,monthly,USA or Census Division,East North Central Division,DV_ENC,2012,purchase-only,9,164.07,161.23
+9,traditional,monthly,USA or Census Division,East North Central Division,DV_ENC,2012,purchase-only,10,163.36,161.85
+10,traditional,monthly,USA or Census Division,East North Central Division,DV_ENC,2012,purchase-only,11,162.08,160.91
+11,traditional,monthly,USA or Census Division,East North Central Division,DV_ENC,2012,purchase-only,12,160.32,161.59
+12,traditional,monthly,USA or Census Division,East South Central Division,DV_ESC,2012,purchase-only,1,176.23,177.34
+13,traditional,monthly,USA or Census Division,East South Central Division,DV_ESC,2012,purchase-only,2,178.0,179.42
+14,traditional,monthly,USA or Census Division,East South Central Division,DV_ESC,2012,purchase-only,3,181.13,181.46
+15,traditional,monthly,USA or Census Division,East South Central Division,DV_ESC,2012,purchase-only,4,182.48,181.42
+16,traditional,monthly,USA or Census Division,East South Central Division,DV_ESC,2012,purchase-only,5,185.75,182.53
+17,traditional,monthly,USA or Census Division,East South Central Division,DV_ESC,2012,purchase-only,6,186.61,182.85
+18,traditional,monthly,USA or Census Division,East South Central Division,DV_ESC,2012,purchase-only,7,185.97,182.35
+19,traditional,monthly,USA or Census Division,East South Central Division,DV_ESC,2012,purchase-only,8,184.92,182.16
+20,traditional,monthly,USA or Census Division,East South Central Division,DV_ESC,2012,purchase-only,9,184.43,182.26
+21,traditional,monthly,USA or Census Division,East South Central Division,DV_ESC,2012,purchase-only,10,184.7,183.38
+22,traditional,monthly,USA or Census Division,East South Central Division,DV_ESC,2012,purchase-only,11,184.29,183.73
+23,traditional,monthly,USA or Census Division,East South Central Division,DV_ESC,2012,purchase-only,12,184.3,185.02
+24,traditional,monthly,USA or Census Division,Middle Atlantic Division,DV_MA,2012,purchase-only,1,190.14,190.84
+25,traditional,monthly,USA or Census Division,Middle Atlantic Division,DV_MA,2012,purchase-only,2,187.55,189.24
+26,traditional,monthly,USA or Census Division,Middle Atlantic Division,DV_MA,2012,purchase-only,3,190.2,191.4
+27,traditional,monthly,USA or Census Division,Middle Atlantic Division,DV_MA,2012,purchase-only,4,191.07,190.76
+28,traditional,monthly,USA or Census Division,Middle Atlantic Division,DV_MA,2012,purchase-only,5,193.54,191.21
+29,traditional,monthly,USA or Census Division,Middle Atlantic Division,DV_MA,2012,purchase-only,6,195.54,191.27
+30,traditional,monthly,USA or Census Division,Middle Atlantic Division,DV_MA,2012,purchase-only,7,194.95,190.81
+31,traditional,monthly,USA or Census Division,Middle Atlantic Division,DV_MA,2012,purchase-only,8,194.71,191.04
+32,traditional,monthly,USA or Census Division,Middle Atlantic Division,DV_MA,2012,purchase-only,9,195.17,192.9
+33,traditional,monthly,USA or Census Division,Middle Atlantic Division,DV_MA,2012,purchase-only,10,192.45,190.44
+34,traditional,monthly,USA or Census Division,Middle Atlantic Division,DV_MA,2012,purchase-only,11,193.63,192.51
+35,traditional,monthly,USA or Census Division,Middle Atlantic Division,DV_MA,2012,purchase-only,12,192.88,193.09
+36,traditional,monthly,USA or Census Division,Mountain Division,DV_MT,2012,purchase-only,1,198.45,199.93
+37,traditional,monthly,USA or Census Division,Mountain Division,DV_MT,2012,purchase-only,2,200.63,201.88
+38,traditional,monthly,USA or Census Division,Mountain Division,DV_MT,2012,purchase-only,3,204.71,206.49
+39,traditional,monthly,USA or Census Division,Mountain Division,DV_MT,2012,purchase-only,4,209.13,208.47
+40,traditional,monthly,USA or Census Division,Mountain Division,DV_MT,2012,purchase-only,5,214.25,211.27
+41,traditional,monthly,USA or Census Division,Mountain Division,DV_MT,2012,purchase-only,6,219.28,214.96
+42,traditional,monthly,USA or Census Division,Mountain Division,DV_MT,2012,purchase-only,7,220.88,216.85
+43,traditional,monthly,USA or Census Division,Mountain Division,DV_MT,2012,purchase-only,8,220.49,217.53
+44,traditional,monthly,USA or Census Division,Mountain Division,DV_MT,2012,purchase-only,9,221.57,219.57
+45,traditional,monthly,USA or Census Division,Mountain Division,DV_MT,2012,purchase-only,10,221.5,220.7
+46,traditional,monthly,USA or Census Division,Mountain Division,DV_MT,2012,purchase-only,11,223.52,223.89
+47,traditional,monthly,USA or Census Division,Mountain Division,DV_MT,2012,purchase-only,12,223.29,225.5
+48,traditional,monthly,USA or Census Division,New England Division,DV_NE,2012,purchase-only,1,192.17,193.64
+49,traditional,monthly,USA or Census Division,New England Division,DV_NE,2012,purchase-only,2,191.92,194.21
+50,traditional,monthly,USA or Census Division,New England Division,DV_NE,2012,purchase-only,3,192.89,193.72
+51,traditional,monthly,USA or Census Division,New England Division,DV_NE,2012,purchase-only,4,192.85,192.71
+52,traditional,monthly,USA or Census Division,New England Division,DV_NE,2012,purchase-only,5,197.09,193.62
+53,traditional,monthly,USA or Census Division,New England Division,DV_NE,2012,purchase-only,6,198.61,193.86
+54,traditional,monthly,USA or Census Division,New England Division,DV_NE,2012,purchase-only,7,198.02,193.79
+55,traditional,monthly,USA or Census Division,New England Division,DV_NE,2012,purchase-only,8,198.84,195.16
+56,traditional,monthly,USA or Census Division,New England Division,DV_NE,2012,purchase-only,9,197.44,195.31
+57,traditional,monthly,USA or Census Division,New England Division,DV_NE,2012,purchase-only,10,196.37,194.86
+58,traditional,monthly,USA or Census Division,New England Division,DV_NE,2012,purchase-only,11,198.0,196.73
+59,traditional,monthly,USA or Census Division,New England Division,DV_NE,2012,purchase-only,12,197.68,197.74
+60,traditional,monthly,USA or Census Division,Pacific Division,DV_PAC,2012,purchase-only,1,167.8,170.19
+61,traditional,monthly,USA or Census Division,Pacific Division,DV_PAC,2012,purchase-only,2,168.77,170.39
+62,traditional,monthly,USA or Census Division,Pacific Division,DV_PAC,2012,purchase-only,3,171.79,172.24
+63,traditional,monthly,USA or Census Division,Pacific Division,DV_PAC,2012,purchase-only,4,174.42,173.77
+64,traditional,monthly,USA or Census Division,Pacific Division,DV_PAC,2012,purchase-only,5,177.79,175.66
+65,traditional,monthly,USA or Census Division,Pacific Division,DV_PAC,2012,purchase-only,6,180.18,177.29
+66,traditional,monthly,USA or Census Division,Pacific Division,DV_PAC,2012,purchase-only,7,179.91,176.62
+67,traditional,monthly,USA or Census Division,Pacific Division,DV_PAC,2012,purchase-only,8,183.66,181.36
+68,traditional,monthly,USA or Census Division,Pacific Division,DV_PAC,2012,purchase-only,9,182.74,180.88
+69,traditional,monthly,USA or Census Division,Pacific Division,DV_PAC,2012,purchase-only,10,185.6,184.62
+70,traditional,monthly,USA or Census Division,Pacific Division,DV_PAC,2012,purchase-only,11,186.7,186.67
+71,traditional,monthly,USA or Census Division,Pacific Division,DV_PAC,2012,purchase-only,12,187.89,189.28
+72,traditional,monthly,USA or Census Division,South Atlantic Division,DV_SA,2012,purchase-only,1,174.79,176.16
+73,traditional,monthly,USA or Census Division,South Atlantic Division,DV_SA,2012,purchase-only,2,175.15,176.52
+74,traditional,monthly,USA or Census Division,South Atlantic Division,DV_SA,2012,purchase-only,3,177.46,177.25
+75,traditional,monthly,USA or Census Division,South Atlantic Division,DV_SA,2012,purchase-only,4,181.28,179.78
+76,traditional,monthly,USA or Census Division,South Atlantic Division,DV_SA,2012,purchase-only,5,182.97,179.96
+77,traditional,monthly,USA or Census Division,South Atlantic Division,DV_SA,2012,purchase-only,6,184.18,180.31
+78,traditional,monthly,USA or Census Division,South Atlantic Division,DV_SA,2012,purchase-only,7,184.5,180.93
+79,traditional,monthly,USA or Census Division,South Atlantic Division,DV_SA,2012,purchase-only,8,185.37,182.45
+80,traditional,monthly,USA or Census Division,South Atlantic Division,DV_SA,2012,purchase-only,9,185.92,183.71
+81,traditional,monthly,USA or Census Division,South Atlantic Division,DV_SA,2012,purchase-only,10,185.65,184.33
+82,traditional,monthly,USA or Census Division,South Atlantic Division,DV_SA,2012,purchase-only,11,185.42,184.7
+83,traditional,monthly,USA or Census Division,South Atlantic Division,DV_SA,2012,purchase-only,12,185.18,185.37
+84,traditional,monthly,USA or Census Division,West North Central Division,DV_WNC,2012,purchase-only,1,190.55,193.32
+85,traditional,monthly,USA or Census Division,West North Central Division,DV_WNC,2012,purchase-only,2,189.71,191.77
+86,traditional,monthly,USA or Census Division,West North Central Division,DV_WNC,2012,purchase-only,3,191.66,192.69
+87,traditional,monthly,USA or Census Division,West North Central Division,DV_WNC,2012,purchase-only,4,193.12,192.15
+88,traditional,monthly,USA or Census Division,West North Central Division,DV_WNC,2012,purchase-only,5,197.34,194.39
+89,traditional,monthly,USA or Census Division,West North Central Division,DV_WNC,2012,purchase-only,6,199.67,194.55
+90,traditional,monthly,USA or Census Division,West North Central Division,DV_WNC,2012,purchase-only,7,201.62,196.36
+91,traditional,monthly,USA or Census Division,West North Central Division,DV_WNC,2012,purchase-only,8,199.73,195.9
+92,traditional,monthly,USA or Census Division,West North Central Division,DV_WNC,2012,purchase-only,9,198.39,195.8
+93,traditional,monthly,USA or Census Division,West North Central Division,DV_WNC,2012,purchase-only,10,199.51,197.58
+94,traditional,monthly,USA or Census Division,West North Central Division,DV_WNC,2012,purchase-only,11,199.72,198.59
+95,traditional,monthly,USA or Census Division,West North Central Division,DV_WNC,2012,purchase-only,12,198.46,198.8
+96,traditional,monthly,USA or Census Division,West South Central Division,DV_WSC,2012,purchase-only,1,188.76,190.23
+97,traditional,monthly,USA or Census Division,West South Central Division,DV_WSC,2012,purchase-only,2,191.37,192.46
+98,traditional,monthly,USA or Census Division,West South Central Division,DV_WSC,2012,purchase-only,3,194.92,194.14
+99,traditional,monthly,USA or Census Division,West South Central Division,DV_WSC,2012,purchase-only,4,197.04,195.14
+100,traditional,monthly,USA or Census Division,West South Central Division,DV_WSC,2012,purchase-only,5,198.0,195.32
+101,traditional,monthly,USA or Census Division,West South Central Division,DV_WSC,2012,purchase-only,6,199.72,195.98
+102,traditional,monthly,USA or Census Division,West South Central Division,DV_WSC,2012,purchase-only,7,201.09,197.46
+103,traditional,monthly,USA or Census Division,West South Central Division,DV_WSC,2012,purchase-only,8,200.18,197.9
+104,traditional,monthly,USA or Census Division,West South Central Division,DV_WSC,2012,purchase-only,9,200.77,199.17
+105,traditional,monthly,USA or Census Division,West South Central Division,DV_WSC,2012,purchase-only,10,200.61,200.08
+106,traditional,monthly,USA or Census Division,West South Central Division,DV_WSC,2012,purchase-only,11,201.36,200.95
+107,traditional,monthly,USA or Census Division,West South Central Division,DV_WSC,2012,purchase-only,12,200.24,201.16
+108,traditional,monthly,USA or Census Division,United States,USA,2012,purchase-only,1,176.89,178.6
+109,traditional,monthly,USA or Census Division,United States,USA,2012,purchase-only,2,177.4,179.0
+110,traditional,monthly,USA or Census Division,United States,USA,2012,purchase-only,3,180.04,180.52
+111,traditional,monthly,USA or Census Division,United States,USA,2012,purchase-only,4,182.57,181.49
+112,traditional,monthly,USA or Census Division,United States,USA,2012,purchase-only,5,185.53,182.57
+113,traditional,monthly,USA or Census Division,United States,USA,2012,purchase-only,6,187.41,183.28
+114,traditional,monthly,USA or Census Division,United States,USA,2012,purchase-only,7,187.73,183.65
+115,traditional,monthly,USA or Census Division,United States,USA,2012,purchase-only,8,188.17,184.94
+116,traditional,monthly,USA or Census Division,United States,USA,2012,purchase-only,9,188.0,185.67
+117,traditional,monthly,USA or Census Division,United States,USA,2012,purchase-only,10,187.97,186.57
+118,traditional,monthly,USA or Census Division,United States,USA,2012,purchase-only,11,188.23,187.45
+119,traditional,monthly,USA or Census Division,United States,USA,2012,purchase-only,12,187.68,188.42
+1980,traditional,quarterly,MSA,"Anaheim-Santa Ana-Irvine, CA (MSAD)",11244,2012,expanded-data,1,192.25,192.51
+1981,traditional,quarterly,MSA,"Anaheim-Santa Ana-Irvine, CA (MSAD)",11244,2012,expanded-data,2,197.81,195.84
+1982,traditional,quarterly,MSA,"Anaheim-Santa Ana-Irvine, CA (MSAD)",11244,2012,expanded-data,3,203.68,201.28
+1983,traditional,quarterly,MSA,"Anaheim-Santa Ana-Irvine, CA (MSAD)",11244,2012,expanded-data,4,208.26,207.3
+1984,traditional,quarterly,MSA,"Atlanta-Sandy Springs-Alpharetta, GA",12060,2012,expanded-data,1,110.65,112.19
+1985,traditional,quarterly,MSA,"Atlanta-Sandy Springs-Alpharetta, GA",12060,2012,expanded-data,2,115.92,114.57
+1986,traditional,quarterly,MSA,"Atlanta-Sandy Springs-Alpharetta, GA",12060,2012,expanded-data,3,119.16,117.55
+1987,traditional,quarterly,MSA,"Atlanta-Sandy Springs-Alpharetta, GA",12060,2012,expanded-data,4,122.37,121.97
+1988,traditional,quarterly,MSA,"Austin-Round Rock-Georgetown, TX",12420,2012,expanded-data,1,240.38,242.18
+1989,traditional,quarterly,MSA,"Austin-Round Rock-Georgetown, TX",12420,2012,expanded-data,2,250.86,247.53
+1990,traditional,quarterly,MSA,"Austin-Round Rock-Georgetown, TX",12420,2012,expanded-data,3,253.79,250.93
+1991,traditional,quarterly,MSA,"Austin-Round Rock-Georgetown, TX",12420,2012,expanded-data,4,251.52,254.82
+1992,traditional,quarterly,MSA,"Baltimore-Columbia-Towson, MD",12580,2012,expanded-data,1,176.68,178.86
+1993,traditional,quarterly,MSA,"Baltimore-Columbia-Towson, MD",12580,2012,expanded-data,2,183.52,181.41
+1994,traditional,quarterly,MSA,"Baltimore-Columbia-Towson, MD",12580,2012,expanded-data,3,185.2,181.95
+1995,traditional,quarterly,MSA,"Baltimore-Columbia-Towson, MD",12580,2012,expanded-data,4,183.79,183.65
+1996,traditional,quarterly,MSA,"Boston, MA (MSAD)",14454,2012,expanded-data,1,210.85,216.34
+1997,traditional,quarterly,MSA,"Boston, MA (MSAD)",14454,2012,expanded-data,2,224.26,221.14
+1998,traditional,quarterly,MSA,"Boston, MA (MSAD)",14454,2012,expanded-data,3,226.64,223.5
+1999,traditional,quarterly,MSA,"Boston, MA (MSAD)",14454,2012,expanded-data,4,225.04,226.96
+2000,traditional,quarterly,MSA,"Cambridge-Newton-Framingham, MA (MSAD)",15764,2012,expanded-data,1,210.53,214.72
+2001,traditional,quarterly,MSA,"Cambridge-Newton-Framingham, MA (MSAD)",15764,2012,expanded-data,2,222.09,218.24
+2002,traditional,quarterly,MSA,"Cambridge-Newton-Framingham, MA (MSAD)",15764,2012,expanded-data,3,224.9,220.59
+2003,traditional,quarterly,MSA,"Cambridge-Newton-Framingham, MA (MSAD)",15764,2012,expanded-data,4,224.42,224.82
+2004,traditional,quarterly,MSA,"Charlotte-Concord-Gastonia, NC-SC",16740,2012,expanded-data,1,149.06,151.05
+2005,traditional,quarterly,MSA,"Charlotte-Concord-Gastonia, NC-SC",16740,2012,expanded-data,2,154.49,152.72
+2006,traditional,quarterly,MSA,"Charlotte-Concord-Gastonia, NC-SC",16740,2012,expanded-data,3,156.41,154.73
+2007,traditional,quarterly,MSA,"Charlotte-Concord-Gastonia, NC-SC",16740,2012,expanded-data,4,155.1,155.45
+2008,traditional,quarterly,MSA,"Chicago-Naperville-Evanston, IL (MSAD)",16984,2012,expanded-data,1,128.84,132.73
+2009,traditional,quarterly,MSA,"Chicago-Naperville-Evanston, IL (MSAD)",16984,2012,expanded-data,2,134.62,132.72
+2010,traditional,quarterly,MSA,"Chicago-Naperville-Evanston, IL (MSAD)",16984,2012,expanded-data,3,136.09,132.51
+2011,traditional,quarterly,MSA,"Chicago-Naperville-Evanston, IL (MSAD)",16984,2012,expanded-data,4,134.05,134.35
+2012,traditional,quarterly,MSA,"Cincinnati, OH-KY-IN",17140,2012,expanded-data,1,128.75,131.66
+2013,traditional,quarterly,MSA,"Cincinnati, OH-KY-IN",17140,2012,expanded-data,2,134.14,131.91
+2014,traditional,quarterly,MSA,"Cincinnati, OH-KY-IN",17140,2012,expanded-data,3,134.83,133.05
+2015,traditional,quarterly,MSA,"Cincinnati, OH-KY-IN",17140,2012,expanded-data,4,133.81,133.54
+2016,traditional,quarterly,MSA,"Cleveland-Elyria, OH",17460,2012,expanded-data,1,102.94,106.61
+2017,traditional,quarterly,MSA,"Cleveland-Elyria, OH",17460,2012,expanded-data,2,110.43,107.71
+2018,traditional,quarterly,MSA,"Cleveland-Elyria, OH",17460,2012,expanded-data,3,111.07,107.62
+2019,traditional,quarterly,MSA,"Cleveland-Elyria, OH",17460,2012,expanded-data,4,111.09,110.38
+2020,traditional,quarterly,MSA,"Columbus, OH",18140,2012,expanded-data,1,128.77,132.9
+2021,traditional,quarterly,MSA,"Columbus, OH",18140,2012,expanded-data,2,138.36,135.67
+2022,traditional,quarterly,MSA,"Columbus, OH",18140,2012,expanded-data,3,139.21,135.81
+2023,traditional,quarterly,MSA,"Columbus, OH",18140,2012,expanded-data,4,136.83,137.24
+2024,traditional,quarterly,MSA,"Dallas-Plano-Irving, TX (MSAD)",19124,2012,expanded-data,1,156.27,157.14
+2025,traditional,quarterly,MSA,"Dallas-Plano-Irving, TX (MSAD)",19124,2012,expanded-data,2,162.84,160.61
+2026,traditional,quarterly,MSA,"Dallas-Plano-Irving, TX (MSAD)",19124,2012,expanded-data,3,164.35,162.55
+2027,traditional,quarterly,MSA,"Dallas-Plano-Irving, TX (MSAD)",19124,2012,expanded-data,4,165.19,165.94
+2028,traditional,quarterly,MSA,"Denver-Aurora-Lakewood, CO",19740,2012,expanded-data,1,243.48,246.2
+2029,traditional,quarterly,MSA,"Denver-Aurora-Lakewood, CO",19740,2012,expanded-data,2,257.32,253.33
+2030,traditional,quarterly,MSA,"Denver-Aurora-Lakewood, CO",19740,2012,expanded-data,3,262.49,258.91
+2031,traditional,quarterly,MSA,"Denver-Aurora-Lakewood, CO",19740,2012,expanded-data,4,265.81,266.2
+2032,traditional,quarterly,MSA,"Detroit-Dearborn-Livonia, MI (MSAD)",19804,2012,expanded-data,1,73.29,74.43
+2033,traditional,quarterly,MSA,"Detroit-Dearborn-Livonia, MI (MSAD)",19804,2012,expanded-data,2,77.85,77.54
+2034,traditional,quarterly,MSA,"Detroit-Dearborn-Livonia, MI (MSAD)",19804,2012,expanded-data,3,81.0,78.87
+2035,traditional,quarterly,MSA,"Detroit-Dearborn-Livonia, MI (MSAD)",19804,2012,expanded-data,4,84.77,83.2
+2036,traditional,quarterly,MSA,"Fort Lauderdale-Pompano Beach-Sunrise, FL (MSAD)",22744,2012,expanded-data,1,156.46,158.26
+2037,traditional,quarterly,MSA,"Fort Lauderdale-Pompano Beach-Sunrise, FL (MSAD)",22744,2012,expanded-data,2,161.37,161.44
+2038,traditional,quarterly,MSA,"Fort Lauderdale-Pompano Beach-Sunrise, FL (MSAD)",22744,2012,expanded-data,3,165.72,164.49
+2039,traditional,quarterly,MSA,"Fort Lauderdale-Pompano Beach-Sunrise, FL (MSAD)",22744,2012,expanded-data,4,169.87,170.01
+2040,traditional,quarterly,MSA,"Fort Worth-Arlington-Grapevine, TX (MSAD)",23104,2012,expanded-data,1,155.27,156.54
+2041,traditional,quarterly,MSA,"Fort Worth-Arlington-Grapevine, TX (MSAD)",23104,2012,expanded-data,2,158.64,156.97
+2042,traditional,quarterly,MSA,"Fort Worth-Arlington-Grapevine, TX (MSAD)",23104,2012,expanded-data,3,160.78,159.03
+2043,traditional,quarterly,MSA,"Fort Worth-Arlington-Grapevine, TX (MSAD)",23104,2012,expanded-data,4,161.42,161.76
+2044,traditional,quarterly,MSA,"Houston-The Woodlands-Sugar Land, TX",26420,2012,expanded-data,1,166.57,166.94
+2045,traditional,quarterly,MSA,"Houston-The Woodlands-Sugar Land, TX",26420,2012,expanded-data,2,170.75,169.13
+2046,traditional,quarterly,MSA,"Houston-The Woodlands-Sugar Land, TX",26420,2012,expanded-data,3,172.53,171.01
+2047,traditional,quarterly,MSA,"Houston-The Woodlands-Sugar Land, TX",26420,2012,expanded-data,4,174.95,174.43
+2048,traditional,quarterly,MSA,"Indianapolis-Carmel-Anderson, IN",26900,2012,expanded-data,1,121.08,123.67
+2049,traditional,quarterly,MSA,"Indianapolis-Carmel-Anderson, IN",26900,2012,expanded-data,2,126.0,124.46
+2050,traditional,quarterly,MSA,"Indianapolis-Carmel-Anderson, IN",26900,2012,expanded-data,3,125.83,124.77
+2051,traditional,quarterly,MSA,"Indianapolis-Carmel-Anderson, IN",26900,2012,expanded-data,4,126.69,126.61
+2052,traditional,quarterly,MSA,"Jacksonville, FL",27260,2012,expanded-data,1,146.49,148.56
+2053,traditional,quarterly,MSA,"Jacksonville, FL",27260,2012,expanded-data,2,152.84,150.33
+2054,traditional,quarterly,MSA,"Jacksonville, FL",27260,2012,expanded-data,3,153.17,150.65
+2055,traditional,quarterly,MSA,"Jacksonville, FL",27260,2012,expanded-data,4,153.38,152.18
+2056,traditional,quarterly,MSA,"Kansas City, MO-KS",28140,2012,expanded-data,1,161.65,164.26
+2057,traditional,quarterly,MSA,"Kansas City, MO-KS",28140,2012,expanded-data,2,168.05,165.46
+2058,traditional,quarterly,MSA,"Kansas City, MO-KS",28140,2012,expanded-data,3,171.54,168.38
+2059,traditional,quarterly,MSA,"Kansas City, MO-KS",28140,2012,expanded-data,4,168.16,168.83
+2060,traditional,quarterly,MSA,"Las Vegas-Henderson-Paradise, NV",29820,2012,expanded-data,1,106.6,106.79
+2061,traditional,quarterly,MSA,"Las Vegas-Henderson-Paradise, NV",29820,2012,expanded-data,2,112.02,111.14
+2062,traditional,quarterly,MSA,"Las Vegas-Henderson-Paradise, NV",29820,2012,expanded-data,3,119.08,117.39
+2063,traditional,quarterly,MSA,"Las Vegas-Henderson-Paradise, NV",29820,2012,expanded-data,4,123.05,122.32
+2064,traditional,quarterly,MSA,"Los Angeles-Long Beach-Glendale, CA (MSAD)",31084,2012,expanded-data,1,152.84,152.82
+2065,traditional,quarterly,MSA,"Los Angeles-Long Beach-Glendale, CA (MSAD)",31084,2012,expanded-data,2,158.31,155.97
+2066,traditional,quarterly,MSA,"Los Angeles-Long Beach-Glendale, CA (MSAD)",31084,2012,expanded-data,3,162.97,160.34
+2067,traditional,quarterly,MSA,"Los Angeles-Long Beach-Glendale, CA (MSAD)",31084,2012,expanded-data,4,168.85,167.43
+2068,traditional,quarterly,MSA,"Miami-Miami Beach-Kendall, FL (MSAD)",33124,2012,expanded-data,1,174.89,176.59
+2069,traditional,quarterly,MSA,"Miami-Miami Beach-Kendall, FL (MSAD)",33124,2012,expanded-data,2,181.56,180.34
+2070,traditional,quarterly,MSA,"Miami-Miami Beach-Kendall, FL (MSAD)",33124,2012,expanded-data,3,187.09,185.82
+2071,traditional,quarterly,MSA,"Miami-Miami Beach-Kendall, FL (MSAD)",33124,2012,expanded-data,4,192.04,191.34
+2072,traditional,quarterly,MSA,"Milwaukee-Waukesha, WI",33340,2012,expanded-data,1,168.24,171.38
+2073,traditional,quarterly,MSA,"Milwaukee-Waukesha, WI",33340,2012,expanded-data,2,176.53,172.57
+2074,traditional,quarterly,MSA,"Milwaukee-Waukesha, WI",33340,2012,expanded-data,3,177.18,172.71
+2075,traditional,quarterly,MSA,"Milwaukee-Waukesha, WI",33340,2012,expanded-data,4,175.75,174.94
+2076,traditional,quarterly,MSA,"Minneapolis-St. Paul-Bloomington, MN-WI",33460,2012,expanded-data,1,178.3,181.96
+2077,traditional,quarterly,MSA,"Minneapolis-St. Paul-Bloomington, MN-WI",33460,2012,expanded-data,2,187.71,185.95
+2078,traditional,quarterly,MSA,"Minneapolis-St. Paul-Bloomington, MN-WI",33460,2012,expanded-data,3,193.79,190.22
+2079,traditional,quarterly,MSA,"Minneapolis-St. Paul-Bloomington, MN-WI",33460,2012,expanded-data,4,195.5,195.44
+2080,traditional,quarterly,MSA,"Montgomery County-Bucks County-Chester County, PA (MSAD)",33874,2012,expanded-data,1,168.88,170.5
+2081,traditional,quarterly,MSA,"Montgomery County-Bucks County-Chester County, PA (MSAD)",33874,2012,expanded-data,2,172.08,169.61
+2082,traditional,quarterly,MSA,"Montgomery County-Bucks County-Chester County, PA (MSAD)",33874,2012,expanded-data,3,173.96,170.92
+2083,traditional,quarterly,MSA,"Montgomery County-Bucks County-Chester County, PA (MSAD)",33874,2012,expanded-data,4,171.61,171.78
+2084,traditional,quarterly,MSA,"Nashville-Davidson--Murfreesboro--Franklin, TN",34980,2012,expanded-data,1,182.82,185.0
+2085,traditional,quarterly,MSA,"Nashville-Davidson--Murfreesboro--Franklin, TN",34980,2012,expanded-data,2,189.02,187.33
+2086,traditional,quarterly,MSA,"Nashville-Davidson--Murfreesboro--Franklin, TN",34980,2012,expanded-data,3,192.08,190.11
+2087,traditional,quarterly,MSA,"Nashville-Davidson--Murfreesboro--Franklin, TN",34980,2012,expanded-data,4,192.49,192.76
+2088,traditional,quarterly,MSA,"Nassau County-Suffolk County, NY (MSAD)",35004,2012,expanded-data,1,206.99,209.79
+2089,traditional,quarterly,MSA,"Nassau County-Suffolk County, NY (MSAD)",35004,2012,expanded-data,2,211.56,211.82
+2090,traditional,quarterly,MSA,"Nassau County-Suffolk County, NY (MSAD)",35004,2012,expanded-data,3,216.52,213.35
+2091,traditional,quarterly,MSA,"Nassau County-Suffolk County, NY (MSAD)",35004,2012,expanded-data,4,212.38,212.22
+2092,traditional,quarterly,MSA,"Newark, NJ-PA (MSAD)",35084,2012,expanded-data,1,174.61,177.48
+2093,traditional,quarterly,MSA,"Newark, NJ-PA (MSAD)",35084,2012,expanded-data,2,179.65,178.39
+2094,traditional,quarterly,MSA,"Newark, NJ-PA (MSAD)",35084,2012,expanded-data,3,183.25,179.11
+2095,traditional,quarterly,MSA,"Newark, NJ-PA (MSAD)",35084,2012,expanded-data,4,179.31,179.54
+2096,traditional,quarterly,MSA,"New York-Jersey City-White Plains, NY-NJ (MSAD)",35614,2012,expanded-data,1,194.41,196.11
+2097,traditional,quarterly,MSA,"New York-Jersey City-White Plains, NY-NJ (MSAD)",35614,2012,expanded-data,2,197.02,196.69
+2098,traditional,quarterly,MSA,"New York-Jersey City-White Plains, NY-NJ (MSAD)",35614,2012,expanded-data,3,201.58,199.13
+2099,traditional,quarterly,MSA,"New York-Jersey City-White Plains, NY-NJ (MSAD)",35614,2012,expanded-data,4,202.03,201.76
+2100,traditional,quarterly,MSA,"Oakland-Berkeley-Livermore, CA (MSAD)",36084,2012,expanded-data,1,161.48,163.28
+2101,traditional,quarterly,MSA,"Oakland-Berkeley-Livermore, CA (MSAD)",36084,2012,expanded-data,2,171.65,168.77
+2102,traditional,quarterly,MSA,"Oakland-Berkeley-Livermore, CA (MSAD)",36084,2012,expanded-data,3,179.49,176.46
+2103,traditional,quarterly,MSA,"Oakland-Berkeley-Livermore, CA (MSAD)",36084,2012,expanded-data,4,183.03,182.4
+2104,traditional,quarterly,MSA,"Orlando-Kissimmee-Sanford, FL",36740,2012,expanded-data,1,128.03,129.5
+2105,traditional,quarterly,MSA,"Orlando-Kissimmee-Sanford, FL",36740,2012,expanded-data,2,133.53,132.57
+2106,traditional,quarterly,MSA,"Orlando-Kissimmee-Sanford, FL",36740,2012,expanded-data,3,136.26,135.28
+2107,traditional,quarterly,MSA,"Orlando-Kissimmee-Sanford, FL",36740,2012,expanded-data,4,140.68,140.11
+2108,traditional,quarterly,MSA,"Philadelphia, PA (MSAD)",37964,2012,expanded-data,1,187.99,191.35
+2109,traditional,quarterly,MSA,"Philadelphia, PA (MSAD)",37964,2012,expanded-data,2,196.0,192.85
+2110,traditional,quarterly,MSA,"Philadelphia, PA (MSAD)",37964,2012,expanded-data,3,193.14,192.21
+2111,traditional,quarterly,MSA,"Philadelphia, PA (MSAD)",37964,2012,expanded-data,4,190.96,191.67
+2112,traditional,quarterly,MSA,"Phoenix-Mesa-Chandler, AZ",38060,2012,expanded-data,1,154.84,155.92
+2113,traditional,quarterly,MSA,"Phoenix-Mesa-Chandler, AZ",38060,2012,expanded-data,2,167.58,166.36
+2114,traditional,quarterly,MSA,"Phoenix-Mesa-Chandler, AZ",38060,2012,expanded-data,3,175.9,174.7
+2115,traditional,quarterly,MSA,"Phoenix-Mesa-Chandler, AZ",38060,2012,expanded-data,4,183.3,183.15
+2116,traditional,quarterly,MSA,"Pittsburgh, PA",38300,2012,expanded-data,1,161.06,165.22
+2117,traditional,quarterly,MSA,"Pittsburgh, PA",38300,2012,expanded-data,2,169.36,166.59
+2118,traditional,quarterly,MSA,"Pittsburgh, PA",38300,2012,expanded-data,3,170.66,167.04
+2119,traditional,quarterly,MSA,"Pittsburgh, PA",38300,2012,expanded-data,4,171.09,171.11
+2120,traditional,quarterly,MSA,"Portland-Vancouver-Hillsboro, OR-WA",38900,2012,expanded-data,1,257.09,259.44
+2121,traditional,quarterly,MSA,"Portland-Vancouver-Hillsboro, OR-WA",38900,2012,expanded-data,2,269.98,265.77
+2122,traditional,quarterly,MSA,"Portland-Vancouver-Hillsboro, OR-WA",38900,2012,expanded-data,3,277.71,272.73
+2123,traditional,quarterly,MSA,"Portland-Vancouver-Hillsboro, OR-WA",38900,2012,expanded-data,4,281.27,280.88
+2124,traditional,quarterly,MSA,"Providence-Warwick, RI-MA",39300,2012,expanded-data,1,165.49,168.22
+2125,traditional,quarterly,MSA,"Providence-Warwick, RI-MA",39300,2012,expanded-data,2,171.92,170.17
+2126,traditional,quarterly,MSA,"Providence-Warwick, RI-MA",39300,2012,expanded-data,3,175.98,173.14
+2127,traditional,quarterly,MSA,"Providence-Warwick, RI-MA",39300,2012,expanded-data,4,176.51,175.05
+2128,traditional,quarterly,MSA,"Riverside-San Bernardino-Ontario, CA",40140,2012,expanded-data,1,120.16,120.73
+2129,traditional,quarterly,MSA,"Riverside-San Bernardino-Ontario, CA",40140,2012,expanded-data,2,124.19,123.39
+2130,traditional,quarterly,MSA,"Riverside-San Bernardino-Ontario, CA",40140,2012,expanded-data,3,128.98,127.73
+2131,traditional,quarterly,MSA,"Riverside-San Bernardino-Ontario, CA",40140,2012,expanded-data,4,133.61,132.92
+2132,traditional,quarterly,MSA,"Sacramento-Roseville-Folsom, CA",40900,2012,expanded-data,1,123.28,124.33
+2133,traditional,quarterly,MSA,"Sacramento-Roseville-Folsom, CA",40900,2012,expanded-data,2,129.28,127.87
+2134,traditional,quarterly,MSA,"Sacramento-Roseville-Folsom, CA",40900,2012,expanded-data,3,135.22,133.34
+2135,traditional,quarterly,MSA,"Sacramento-Roseville-Folsom, CA",40900,2012,expanded-data,4,140.71,140.18
+2136,traditional,quarterly,MSA,"St. Louis, MO-IL",41180,2012,expanded-data,1,138.78,141.74
+2137,traditional,quarterly,MSA,"St. Louis, MO-IL",41180,2012,expanded-data,2,146.97,143.73
+2138,traditional,quarterly,MSA,"St. Louis, MO-IL",41180,2012,expanded-data,3,147.85,144.3
+2139,traditional,quarterly,MSA,"St. Louis, MO-IL",41180,2012,expanded-data,4,144.91,144.96
+2140,traditional,quarterly,MSA,"San Antonio-New Braunfels, TX",41700,2012,expanded-data,1,188.6,190.41
+2141,traditional,quarterly,MSA,"San Antonio-New Braunfels, TX",41700,2012,expanded-data,2,196.37,194.38
+2142,traditional,quarterly,MSA,"San Antonio-New Braunfels, TX",41700,2012,expanded-data,3,194.92,193.82
+2143,traditional,quarterly,MSA,"San Antonio-New Braunfels, TX",41700,2012,expanded-data,4,198.68,199.19
+2144,traditional,quarterly,MSA,"San Diego-Chula Vista-Carlsbad, CA",41740,2012,expanded-data,1,178.42,179.47
+2145,traditional,quarterly,MSA,"San Diego-Chula Vista-Carlsbad, CA",41740,2012,expanded-data,2,184.39,183.21
+2146,traditional,quarterly,MSA,"San Diego-Chula Vista-Carlsbad, CA",41740,2012,expanded-data,3,190.09,188.32
+2147,traditional,quarterly,MSA,"San Diego-Chula Vista-Carlsbad, CA",41740,2012,expanded-data,4,195.17,195.41
+2148,traditional,quarterly,MSA,"San Francisco-San Mateo-Redwood City, CA (MSAD)",41884,2012,expanded-data,1,213.72,215.39
+2149,traditional,quarterly,MSA,"San Francisco-San Mateo-Redwood City, CA (MSAD)",41884,2012,expanded-data,2,228.31,224.18
+2150,traditional,quarterly,MSA,"San Francisco-San Mateo-Redwood City, CA (MSAD)",41884,2012,expanded-data,3,231.02,228.89
+2151,traditional,quarterly,MSA,"San Francisco-San Mateo-Redwood City, CA (MSAD)",41884,2012,expanded-data,4,240.05,239.13
+2152,traditional,quarterly,MSA,"San Jose-Sunnyvale-Santa Clara, CA",41940,2012,expanded-data,1,200.6,201.62
+2153,traditional,quarterly,MSA,"San Jose-Sunnyvale-Santa Clara, CA",41940,2012,expanded-data,2,213.01,209.01
+2154,traditional,quarterly,MSA,"San Jose-Sunnyvale-Santa Clara, CA",41940,2012,expanded-data,3,220.81,216.9
+2155,traditional,quarterly,MSA,"San Jose-Sunnyvale-Santa Clara, CA",41940,2012,expanded-data,4,227.17,226.44
+2156,traditional,quarterly,MSA,"Seattle-Bellevue-Kent, WA (MSAD)",42644,2012,expanded-data,1,200.97,203.65
+2157,traditional,quarterly,MSA,"Seattle-Bellevue-Kent, WA (MSAD)",42644,2012,expanded-data,2,213.11,209.55
+2158,traditional,quarterly,MSA,"Seattle-Bellevue-Kent, WA (MSAD)",42644,2012,expanded-data,3,219.46,215.91
+2159,traditional,quarterly,MSA,"Seattle-Bellevue-Kent, WA (MSAD)",42644,2012,expanded-data,4,223.26,223.71
+2160,traditional,quarterly,MSA,"Tampa-St. Petersburg-Clearwater, FL",45300,2012,expanded-data,1,140.0,141.59
+2161,traditional,quarterly,MSA,"Tampa-St. Petersburg-Clearwater, FL",45300,2012,expanded-data,2,145.26,143.45
+2162,traditional,quarterly,MSA,"Tampa-St. Petersburg-Clearwater, FL",45300,2012,expanded-data,3,147.27,145.36
+2163,traditional,quarterly,MSA,"Tampa-St. Petersburg-Clearwater, FL",45300,2012,expanded-data,4,150.48,149.6
+2164,traditional,quarterly,MSA,"Virginia Beach-Norfolk-Newport News, VA-NC",47260,2012,expanded-data,1,205.89,208.5
+2165,traditional,quarterly,MSA,"Virginia Beach-Norfolk-Newport News, VA-NC",47260,2012,expanded-data,2,211.78,209.29
+2166,traditional,quarterly,MSA,"Virginia Beach-Norfolk-Newport News, VA-NC",47260,2012,expanded-data,3,211.6,208.95
+2167,traditional,quarterly,MSA,"Virginia Beach-Norfolk-Newport News, VA-NC",47260,2012,expanded-data,4,208.26,209.48
+2168,traditional,quarterly,MSA,"Warren-Troy-Farmington Hills, MI (MSAD)",47664,2012,expanded-data,1,100.14,101.69
+2169,traditional,quarterly,MSA,"Warren-Troy-Farmington Hills, MI (MSAD)",47664,2012,expanded-data,2,106.28,104.76
+2170,traditional,quarterly,MSA,"Warren-Troy-Farmington Hills, MI (MSAD)",47664,2012,expanded-data,3,111.85,109.17
+2171,traditional,quarterly,MSA,"Warren-Troy-Farmington Hills, MI (MSAD)",47664,2012,expanded-data,4,115.14,113.95
+2172,traditional,quarterly,MSA,"Washington-Arlington-Alexandria, DC-VA-MD-WV (MSAD)",47894,2012,expanded-data,1,180.97,184.17
+2173,traditional,quarterly,MSA,"Washington-Arlington-Alexandria, DC-VA-MD-WV (MSAD)",47894,2012,expanded-data,2,190.38,188.06
+2174,traditional,quarterly,MSA,"Washington-Arlington-Alexandria, DC-VA-MD-WV (MSAD)",47894,2012,expanded-data,3,194.31,191.62
+2175,traditional,quarterly,MSA,"Washington-Arlington-Alexandria, DC-VA-MD-WV (MSAD)",47894,2012,expanded-data,4,193.88,194.87
+2176,traditional,quarterly,MSA,"West Palm Beach-Boca Raton-Boynton Beach, FL (MSAD)",48424,2012,expanded-data,1,140.98,142.1
+2177,traditional,quarterly,MSA,"West Palm Beach-Boca Raton-Boynton Beach, FL (MSAD)",48424,2012,expanded-data,2,147.02,145.65
+2178,traditional,quarterly,MSA,"West Palm Beach-Boca Raton-Boynton Beach, FL (MSAD)",48424,2012,expanded-data,3,149.53,148.32
+2179,traditional,quarterly,MSA,"West Palm Beach-Boca Raton-Boynton Beach, FL (MSAD)",48424,2012,expanded-data,4,154.97,154.32
+2180,traditional,quarterly,State,Alaska,AK,2012,expanded-data,1,221.66,225.35
+2181,traditional,quarterly,State,Alaska,AK,2012,expanded-data,2,232.41,229.38
+2182,traditional,quarterly,State,Alaska,AK,2012,expanded-data,3,232.45,229.44
+2183,traditional,quarterly,State,Alaska,AK,2012,expanded-data,4,229.63,231.11
+2184,traditional,quarterly,State,Alabama,AL,2012,expanded-data,1,151.08,152.17
+2185,traditional,quarterly,State,Alabama,AL,2012,expanded-data,2,149.44,147.92
+2186,traditional,quarterly,State,Alabama,AL,2012,expanded-data,3,150.64,149.24
+2187,traditional,quarterly,State,Alabama,AL,2012,expanded-data,4,154.63,154.04
+2188,traditional,quarterly,State,Arkansas,AR,2012,expanded-data,1,174.04,175.26
+2189,traditional,quarterly,State,Arkansas,AR,2012,expanded-data,2,179.11,177.68
+2190,traditional,quarterly,State,Arkansas,AR,2012,expanded-data,3,179.9,178.22
+2191,traditional,quarterly,State,Arkansas,AR,2012,expanded-data,4,179.01,179.61
+2192,traditional,quarterly,State,Arizona,AZ,2012,expanded-data,1,161.09,162.35
+2193,traditional,quarterly,State,Arizona,AZ,2012,expanded-data,2,173.15,171.77
+2194,traditional,quarterly,State,Arizona,AZ,2012,expanded-data,3,181.14,179.79
+2195,traditional,quarterly,State,Arizona,AZ,2012,expanded-data,4,187.71,187.6
+2196,traditional,quarterly,State,California,CA,2012,expanded-data,1,144.01,144.99
+2197,traditional,quarterly,State,California,CA,2012,expanded-data,2,150.54,148.9
+2198,traditional,quarterly,State,California,CA,2012,expanded-data,3,155.91,153.77
+2199,traditional,quarterly,State,California,CA,2012,expanded-data,4,161.04,160.31
+2200,traditional,quarterly,State,Colorado,CO,2012,expanded-data,1,244.25,247.18
+2201,traditional,quarterly,State,Colorado,CO,2012,expanded-data,2,256.65,252.86
+2202,traditional,quarterly,State,Colorado,CO,2012,expanded-data,3,261.51,257.83
+2203,traditional,quarterly,State,Colorado,CO,2012,expanded-data,4,264.26,264.29
+2204,traditional,quarterly,State,Connecticut,CT,2012,expanded-data,1,149.38,153.99
+2205,traditional,quarterly,State,Connecticut,CT,2012,expanded-data,2,157.58,155.51
+2206,traditional,quarterly,State,Connecticut,CT,2012,expanded-data,3,157.44,154.5
+2207,traditional,quarterly,State,Connecticut,CT,2012,expanded-data,4,154.35,154.92
+2208,traditional,quarterly,State,District of Columbia,DC,2012,expanded-data,1,280.59,279.96
+2209,traditional,quarterly,State,District of Columbia,DC,2012,expanded-data,2,294.58,285.49
+2210,traditional,quarterly,State,District of Columbia,DC,2012,expanded-data,3,299.1,293.03
+2211,traditional,quarterly,State,District of Columbia,DC,2012,expanded-data,4,309.12,306.74
+2212,traditional,quarterly,State,Delaware,DE,2012,expanded-data,1,147.42,150.77
+2213,traditional,quarterly,State,Delaware,DE,2012,expanded-data,2,156.06,154.19
+2214,traditional,quarterly,State,Delaware,DE,2012,expanded-data,3,157.67,155.46
+2215,traditional,quarterly,State,Delaware,DE,2012,expanded-data,4,158.83,158.26
+2216,traditional,quarterly,State,Florida,FL,2012,expanded-data,1,148.1,149.39
+2217,traditional,quarterly,State,Florida,FL,2012,expanded-data,2,153.66,151.96
+2218,traditional,quarterly,State,Florida,FL,2012,expanded-data,3,156.03,154.14
+2219,traditional,quarterly,State,Florida,FL,2012,expanded-data,4,159.65,158.88
+2220,traditional,quarterly,State,Georgia,GA,2012,expanded-data,1,128.09,129.32
+2221,traditional,quarterly,State,Georgia,GA,2012,expanded-data,2,131.94,130.67
+2222,traditional,quarterly,State,Georgia,GA,2012,expanded-data,3,133.65,132.42
+2223,traditional,quarterly,State,Georgia,GA,2012,expanded-data,4,137.06,136.76
+2224,traditional,quarterly,State,Hawaii,HI,2012,expanded-data,1,207.96,205.64
+2225,traditional,quarterly,State,Hawaii,HI,2012,expanded-data,2,214.0,211.26
+2226,traditional,quarterly,State,Hawaii,HI,2012,expanded-data,3,219.23,214.83
+2227,traditional,quarterly,State,Hawaii,HI,2012,expanded-data,4,219.43,215.75
+2228,traditional,quarterly,State,Iowa,IA,2012,expanded-data,1,199.97,201.24
+2229,traditional,quarterly,State,Iowa,IA,2012,expanded-data,2,203.37,200.53
+2230,traditional,quarterly,State,Iowa,IA,2012,expanded-data,3,206.01,202.15
+2231,traditional,quarterly,State,Iowa,IA,2012,expanded-data,4,205.04,204.02
+2232,traditional,quarterly,State,Idaho,ID,2012,expanded-data,1,174.8,176.95
+2233,traditional,quarterly,State,Idaho,ID,2012,expanded-data,2,188.05,184.68
+2234,traditional,quarterly,State,Idaho,ID,2012,expanded-data,3,194.97,190.77
+2235,traditional,quarterly,State,Idaho,ID,2012,expanded-data,4,195.19,195.05
+2236,traditional,quarterly,State,Illinois,IL,2012,expanded-data,1,138.93,142.3
+2237,traditional,quarterly,State,Illinois,IL,2012,expanded-data,2,144.83,142.45
+2238,traditional,quarterly,State,Illinois,IL,2012,expanded-data,3,145.76,142.11
+2239,traditional,quarterly,State,Illinois,IL,2012,expanded-data,4,142.8,143.04
+2240,traditional,quarterly,State,Indiana,IN,2012,expanded-data,1,144.18,146.34
+2241,traditional,quarterly,State,Indiana,IN,2012,expanded-data,2,149.72,147.38
+2242,traditional,quarterly,State,Indiana,IN,2012,expanded-data,3,149.46,147.27
+2243,traditional,quarterly,State,Indiana,IN,2012,expanded-data,4,148.91,148.61
+2244,traditional,quarterly,State,Kansas,KS,2012,expanded-data,1,180.81,182.97
+2245,traditional,quarterly,State,Kansas,KS,2012,expanded-data,2,187.05,185.0
+2246,traditional,quarterly,State,Kansas,KS,2012,expanded-data,3,190.22,188.09
+2247,traditional,quarterly,State,Kansas,KS,2012,expanded-data,4,186.71,186.94
+2248,traditional,quarterly,State,Kentucky,KY,2012,expanded-data,1,164.71,167.11
+2249,traditional,quarterly,State,Kentucky,KY,2012,expanded-data,2,170.27,167.95
+2250,traditional,quarterly,State,Kentucky,KY,2012,expanded-data,3,169.96,168.07
+2251,traditional,quarterly,State,Kentucky,KY,2012,expanded-data,4,169.48,169.77
+2252,traditional,quarterly,State,Louisiana,LA,2012,expanded-data,1,207.39,208.26
+2253,traditional,quarterly,State,Louisiana,LA,2012,expanded-data,2,213.1,211.48
+2254,traditional,quarterly,State,Louisiana,LA,2012,expanded-data,3,215.35,213.09
+2255,traditional,quarterly,State,Louisiana,LA,2012,expanded-data,4,212.49,213.07
+2256,traditional,quarterly,State,Massachusetts,MA,2012,expanded-data,1,201.8,205.65
+2257,traditional,quarterly,State,Massachusetts,MA,2012,expanded-data,2,210.98,207.77
+2258,traditional,quarterly,State,Massachusetts,MA,2012,expanded-data,3,213.83,210.17
+2259,traditional,quarterly,State,Massachusetts,MA,2012,expanded-data,4,213.02,212.6
+2260,traditional,quarterly,State,Maryland,MD,2012,expanded-data,1,168.82,170.9
+2261,traditional,quarterly,State,Maryland,MD,2012,expanded-data,2,175.52,173.75
+2262,traditional,quarterly,State,Maryland,MD,2012,expanded-data,3,178.54,175.28
+2263,traditional,quarterly,State,Maryland,MD,2012,expanded-data,4,177.83,177.43
+2264,traditional,quarterly,State,Maine,ME,2012,expanded-data,1,186.65,188.96
+2265,traditional,quarterly,State,Maine,ME,2012,expanded-data,2,187.05,185.62
+2266,traditional,quarterly,State,Maine,ME,2012,expanded-data,3,188.67,187.06
+2267,traditional,quarterly,State,Maine,ME,2012,expanded-data,4,191.0,190.55
+2268,traditional,quarterly,State,Michigan,MI,2012,expanded-data,1,114.43,116.57
+2269,traditional,quarterly,State,Michigan,MI,2012,expanded-data,2,120.75,118.95
+2270,traditional,quarterly,State,Michigan,MI,2012,expanded-data,3,124.42,121.16
+2271,traditional,quarterly,State,Michigan,MI,2012,expanded-data,4,125.83,124.66
+2272,traditional,quarterly,State,Minnesota,MN,2012,expanded-data,1,184.6,187.89
+2273,traditional,quarterly,State,Minnesota,MN,2012,expanded-data,2,193.64,191.17
+2274,traditional,quarterly,State,Minnesota,MN,2012,expanded-data,3,197.53,193.95
+2275,traditional,quarterly,State,Minnesota,MN,2012,expanded-data,4,197.83,197.31
+2276,traditional,quarterly,State,Missouri,MO,2012,expanded-data,1,158.09,160.74
+2277,traditional,quarterly,State,Missouri,MO,2012,expanded-data,2,164.52,161.77
+2278,traditional,quarterly,State,Missouri,MO,2012,expanded-data,3,166.19,162.74
+2279,traditional,quarterly,State,Missouri,MO,2012,expanded-data,4,164.07,164.0
+2280,traditional,quarterly,State,Mississippi,MS,2012,expanded-data,1,161.02,163.17
+2281,traditional,quarterly,State,Mississippi,MS,2012,expanded-data,2,162.23,161.7
+2282,traditional,quarterly,State,Mississippi,MS,2012,expanded-data,3,163.63,163.08
+2283,traditional,quarterly,State,Mississippi,MS,2012,expanded-data,4,161.22,162.79
+2284,traditional,quarterly,State,Montana,MT,2012,expanded-data,1,293.0,293.36
+2285,traditional,quarterly,State,Montana,MT,2012,expanded-data,2,297.45,295.4
+2286,traditional,quarterly,State,Montana,MT,2012,expanded-data,3,304.47,301.62
+2287,traditional,quarterly,State,Montana,MT,2012,expanded-data,4,307.04,306.07
+2288,traditional,quarterly,State,North Carolina,NC,2012,expanded-data,1,161.65,163.29
+2289,traditional,quarterly,State,North Carolina,NC,2012,expanded-data,2,165.44,163.8
+2290,traditional,quarterly,State,North Carolina,NC,2012,expanded-data,3,165.98,164.31
+2291,traditional,quarterly,State,North Carolina,NC,2012,expanded-data,4,165.61,165.51
+2292,traditional,quarterly,State,North Dakota,ND,2012,expanded-data,1,280.6,278.39
+2293,traditional,quarterly,State,North Dakota,ND,2012,expanded-data,2,290.19,285.0
+2294,traditional,quarterly,State,North Dakota,ND,2012,expanded-data,3,298.33,292.67
+2295,traditional,quarterly,State,North Dakota,ND,2012,expanded-data,4,305.46,300.57
+2296,traditional,quarterly,State,Nebraska,NE,2012,expanded-data,1,201.88,203.76
+2297,traditional,quarterly,State,Nebraska,NE,2012,expanded-data,2,205.88,203.02
+2298,traditional,quarterly,State,Nebraska,NE,2012,expanded-data,3,206.97,204.55
+2299,traditional,quarterly,State,Nebraska,NE,2012,expanded-data,4,209.82,209.34
+2300,traditional,quarterly,State,New Hampshire,NH,2012,expanded-data,1,165.78,170.19
+2301,traditional,quarterly,State,New Hampshire,NH,2012,expanded-data,2,171.05,169.44
+2302,traditional,quarterly,State,New Hampshire,NH,2012,expanded-data,3,172.64,169.92
+2303,traditional,quarterly,State,New Hampshire,NH,2012,expanded-data,4,175.53,175.86
+2304,traditional,quarterly,State,New Jersey,NJ,2012,expanded-data,1,171.06,173.61
+2305,traditional,quarterly,State,New Jersey,NJ,2012,expanded-data,2,174.3,173.65
+2306,traditional,quarterly,State,New Jersey,NJ,2012,expanded-data,3,176.06,173.58
+2307,traditional,quarterly,State,New Jersey,NJ,2012,expanded-data,4,174.66,174.6
+2308,traditional,quarterly,State,New Mexico,NM,2012,expanded-data,1,201.57,202.67
+2309,traditional,quarterly,State,New Mexico,NM,2012,expanded-data,2,206.53,205.19
+2310,traditional,quarterly,State,New Mexico,NM,2012,expanded-data,3,209.11,207.88
+2311,traditional,quarterly,State,New Mexico,NM,2012,expanded-data,4,208.18,207.94
+2312,traditional,quarterly,State,Nevada,NV,2012,expanded-data,1,113.94,114.19
+2313,traditional,quarterly,State,Nevada,NV,2012,expanded-data,2,119.93,118.79
+2314,traditional,quarterly,State,Nevada,NV,2012,expanded-data,3,126.91,125.13
+2315,traditional,quarterly,State,Nevada,NV,2012,expanded-data,4,130.79,129.97
+2316,traditional,quarterly,State,New York,NY,2012,expanded-data,1,175.01,176.14
+2317,traditional,quarterly,State,New York,NY,2012,expanded-data,2,179.18,177.43
+2318,traditional,quarterly,State,New York,NY,2012,expanded-data,3,181.31,177.47
+2319,traditional,quarterly,State,New York,NY,2012,expanded-data,4,180.76,179.23
+2320,traditional,quarterly,State,Ohio,OH,2012,expanded-data,1,128.94,132.0
+2321,traditional,quarterly,State,Ohio,OH,2012,expanded-data,2,135.8,133.27
+2322,traditional,quarterly,State,Ohio,OH,2012,expanded-data,3,137.61,134.14
+2323,traditional,quarterly,State,Ohio,OH,2012,expanded-data,4,136.5,135.83
+2324,traditional,quarterly,State,Oklahoma,OK,2012,expanded-data,1,186.21,187.42
+2325,traditional,quarterly,State,Oklahoma,OK,2012,expanded-data,2,192.07,188.8
+2326,traditional,quarterly,State,Oklahoma,OK,2012,expanded-data,3,194.23,191.29
+2327,traditional,quarterly,State,Oklahoma,OK,2012,expanded-data,4,194.7,193.51
+2328,traditional,quarterly,State,Oregon,OR,2012,expanded-data,1,245.31,247.26
+2329,traditional,quarterly,State,Oregon,OR,2012,expanded-data,2,255.54,251.88
+2330,traditional,quarterly,State,Oregon,OR,2012,expanded-data,3,264.49,258.83
+2331,traditional,quarterly,State,Oregon,OR,2012,expanded-data,4,265.69,264.64
+2332,traditional,quarterly,State,Pennsylvania,PA,2012,expanded-data,1,170.15,173.25
+2333,traditional,quarterly,State,Pennsylvania,PA,2012,expanded-data,2,177.52,174.8
+2334,traditional,quarterly,State,Pennsylvania,PA,2012,expanded-data,3,177.59,174.36
+2335,traditional,quarterly,State,Pennsylvania,PA,2012,expanded-data,4,175.91,175.6
+2336,traditional,quarterly,State,Rhode Island,RI,2012,expanded-data,1,151.37,153.53
+2337,traditional,quarterly,State,Rhode Island,RI,2012,expanded-data,2,157.41,155.24
+2338,traditional,quarterly,State,Rhode Island,RI,2012,expanded-data,3,160.56,157.42
+2339,traditional,quarterly,State,Rhode Island,RI,2012,expanded-data,4,161.06,159.68
+2340,traditional,quarterly,State,South Carolina,SC,2012,expanded-data,1,163.19,164.61
+2341,traditional,quarterly,State,South Carolina,SC,2012,expanded-data,2,165.59,164.13
+2342,traditional,quarterly,State,South Carolina,SC,2012,expanded-data,3,165.62,164.09
+2343,traditional,quarterly,State,South Carolina,SC,2012,expanded-data,4,164.95,164.55
+2344,traditional,quarterly,State,South Dakota,SD,2012,expanded-data,1,222.91,223.9
+2345,traditional,quarterly,State,South Dakota,SD,2012,expanded-data,2,230.92,228.75
+2346,traditional,quarterly,State,South Dakota,SD,2012,expanded-data,3,233.74,230.81
+2347,traditional,quarterly,State,South Dakota,SD,2012,expanded-data,4,231.91,231.26
+2348,traditional,quarterly,State,Tennessee,TN,2012,expanded-data,1,174.12,175.96
+2349,traditional,quarterly,State,Tennessee,TN,2012,expanded-data,2,179.23,177.36
+2350,traditional,quarterly,State,Tennessee,TN,2012,expanded-data,3,179.78,177.62
+2351,traditional,quarterly,State,Tennessee,TN,2012,expanded-data,4,180.42,179.96
+2352,traditional,quarterly,State,Texas,TX,2012,expanded-data,1,177.64,178.66
+2353,traditional,quarterly,State,Texas,TX,2012,expanded-data,2,183.14,181.35
+2354,traditional,quarterly,State,Texas,TX,2012,expanded-data,3,184.59,182.96
+2355,traditional,quarterly,State,Texas,TX,2012,expanded-data,4,184.98,185.53
+2356,traditional,quarterly,State,Utah,UT,2012,expanded-data,1,241.01,243.67
+2357,traditional,quarterly,State,Utah,UT,2012,expanded-data,2,254.35,251.11
+2358,traditional,quarterly,State,Utah,UT,2012,expanded-data,3,260.26,256.9
+2359,traditional,quarterly,State,Utah,UT,2012,expanded-data,4,264.99,265.24
+2360,traditional,quarterly,State,Virginia,VA,2012,expanded-data,1,186.68,189.57
+2361,traditional,quarterly,State,Virginia,VA,2012,expanded-data,2,194.66,191.62
+2362,traditional,quarterly,State,Virginia,VA,2012,expanded-data,3,196.91,193.75
+2363,traditional,quarterly,State,Virginia,VA,2012,expanded-data,4,195.47,195.76
+2364,traditional,quarterly,State,Vermont,VT,2012,expanded-data,1,181.81,185.39
+2365,traditional,quarterly,State,Vermont,VT,2012,expanded-data,2,188.35,186.11
+2366,traditional,quarterly,State,Vermont,VT,2012,expanded-data,3,191.36,188.77
+2367,traditional,quarterly,State,Vermont,VT,2012,expanded-data,4,187.51,187.82
+2368,traditional,quarterly,State,Washington,WA,2012,expanded-data,1,210.38,213.02
+2369,traditional,quarterly,State,Washington,WA,2012,expanded-data,2,220.6,217.42
+2370,traditional,quarterly,State,Washington,WA,2012,expanded-data,3,225.77,221.63
+2371,traditional,quarterly,State,Washington,WA,2012,expanded-data,4,227.38,226.91
+2372,traditional,quarterly,State,Wisconsin,WI,2012,expanded-data,1,184.14,187.16
+2373,traditional,quarterly,State,Wisconsin,WI,2012,expanded-data,2,189.55,187.65
+2374,traditional,quarterly,State,Wisconsin,WI,2012,expanded-data,3,192.14,188.8
+2375,traditional,quarterly,State,Wisconsin,WI,2012,expanded-data,4,189.9,189.67
+2376,traditional,quarterly,State,West Virginia,WV,2012,expanded-data,1,207.43,207.54
+2377,traditional,quarterly,State,West Virginia,WV,2012,expanded-data,2,215.89,210.95
+2378,traditional,quarterly,State,West Virginia,WV,2012,expanded-data,3,215.72,210.8
+2379,traditional,quarterly,State,West Virginia,WV,2012,expanded-data,4,222.45,218.61
+2380,traditional,quarterly,State,Wyoming,WY,2012,expanded-data,1,291.12,292.1
+2381,traditional,quarterly,State,Wyoming,WY,2012,expanded-data,2,301.81,297.56
+2382,traditional,quarterly,State,Wyoming,WY,2012,expanded-data,3,305.62,300.73
+2383,traditional,quarterly,State,Wyoming,WY,2012,expanded-data,4,305.54,305.96
+2384,traditional,quarterly,USA or Census Division,East North Central Division,DV_ENC,2012,expanded-data,1,136.01,138.68
+2385,traditional,quarterly,USA or Census Division,East North Central Division,DV_ENC,2012,expanded-data,2,142.27,139.93
+2386,traditional,quarterly,USA or Census Division,East North Central Division,DV_ENC,2012,expanded-data,3,144.2,140.8
+2387,traditional,quarterly,USA or Census Division,East North Central Division,DV_ENC,2012,expanded-data,4,143.33,142.71
+2388,traditional,quarterly,USA or Census Division,East South Central Division,DV_ESC,2012,expanded-data,1,163.52,165.32
+2389,traditional,quarterly,USA or Census Division,East South Central Division,DV_ESC,2012,expanded-data,2,166.17,164.51
+2390,traditional,quarterly,USA or Census Division,East South Central Division,DV_ESC,2012,expanded-data,3,166.86,165.22
+2391,traditional,quarterly,USA or Census Division,East South Central Division,DV_ESC,2012,expanded-data,4,167.75,167.73
+2392,traditional,quarterly,USA or Census Division,Middle Atlantic Division,DV_MA,2012,expanded-data,1,172.56,174.69
+2393,traditional,quarterly,USA or Census Division,Middle Atlantic Division,DV_MA,2012,expanded-data,2,177.74,175.79
+2394,traditional,quarterly,USA or Census Division,Middle Atlantic Division,DV_MA,2012,expanded-data,3,179.01,175.63
+2395,traditional,quarterly,USA or Census Division,Middle Atlantic Division,DV_MA,2012,expanded-data,4,177.85,177.03
+2396,traditional,quarterly,USA or Census Division,Mountain Division,DV_MT,2012,expanded-data,1,196.03,197.57
+2397,traditional,quarterly,USA or Census Division,Mountain Division,DV_MT,2012,expanded-data,2,206.97,204.64
+2398,traditional,quarterly,USA or Census Division,Mountain Division,DV_MT,2012,expanded-data,3,213.74,211.2
+2399,traditional,quarterly,USA or Census Division,Mountain Division,DV_MT,2012,expanded-data,4,217.72,217.43
+2400,traditional,quarterly,USA or Census Division,New England Division,DV_NE,2012,expanded-data,1,178.21,181.92
+2401,traditional,quarterly,USA or Census Division,New England Division,DV_NE,2012,expanded-data,2,185.24,182.74
+2402,traditional,quarterly,USA or Census Division,New England Division,DV_NE,2012,expanded-data,3,187.02,183.88
+2403,traditional,quarterly,USA or Census Division,New England Division,DV_NE,2012,expanded-data,4,186.33,186.1
+2404,traditional,quarterly,USA or Census Division,Pacific Division,DV_PAC,2012,expanded-data,1,163.81,165.01
+2405,traditional,quarterly,USA or Census Division,Pacific Division,DV_PAC,2012,expanded-data,2,171.21,169.14
+2406,traditional,quarterly,USA or Census Division,Pacific Division,DV_PAC,2012,expanded-data,3,176.81,174.06
+2407,traditional,quarterly,USA or Census Division,Pacific Division,DV_PAC,2012,expanded-data,4,181.13,180.33
+2408,traditional,quarterly,USA or Census Division,South Atlantic Division,DV_SA,2012,expanded-data,1,157.3,158.81
+2409,traditional,quarterly,USA or Census Division,South Atlantic Division,DV_SA,2012,expanded-data,2,162.51,160.56
+2410,traditional,quarterly,USA or Census Division,South Atlantic Division,DV_SA,2012,expanded-data,3,164.21,162.08
+2411,traditional,quarterly,USA or Census Division,South Atlantic Division,DV_SA,2012,expanded-data,4,165.99,165.41
+2412,traditional,quarterly,USA or Census Division,West North Central Division,DV_WNC,2012,expanded-data,1,183.62,185.86
+2413,traditional,quarterly,USA or Census Division,West North Central Division,DV_WNC,2012,expanded-data,2,190.21,187.43
+2414,traditional,quarterly,USA or Census Division,West North Central Division,DV_WNC,2012,expanded-data,3,192.91,189.47
+2415,traditional,quarterly,USA or Census Division,West North Central Division,DV_WNC,2012,expanded-data,4,191.95,191.4
+2416,traditional,quarterly,USA or Census Division,West South Central Division,DV_WSC,2012,expanded-data,1,182.83,183.8
+2417,traditional,quarterly,USA or Census Division,West South Central Division,DV_WSC,2012,expanded-data,2,188.39,186.39
+2418,traditional,quarterly,USA or Census Division,West South Central Division,DV_WSC,2012,expanded-data,3,189.96,188.01
+2419,traditional,quarterly,USA or Census Division,West South Central Division,DV_WSC,2012,expanded-data,4,189.87,190.15
+2420,traditional,quarterly,USA or Census Division,United States,USA,2012,expanded-data,1,164.65,166.45
+2421,traditional,quarterly,USA or Census Division,United States,USA,2012,expanded-data,2,170.8,168.58
+2422,traditional,quarterly,USA or Census Division,United States,USA,2012,expanded-data,3,173.36,170.57
+2423,traditional,quarterly,USA or Census Division,United States,USA,2012,expanded-data,4,174.23,173.68
+2424,traditional,quarterly,MSA,"Akron, OH",10420,2012,purchase-only,1,139.42,141.26
+2425,traditional,quarterly,MSA,"Akron, OH",10420,2012,purchase-only,2,147.29,144.88
+2426,traditional,quarterly,MSA,"Akron, OH",10420,2012,purchase-only,3,145.47,144.08
+2427,traditional,quarterly,MSA,"Akron, OH",10420,2012,purchase-only,4,152.02,151.17
+2428,traditional,quarterly,MSA,"Albany-Schenectady-Troy, NY",10580,2012,purchase-only,1,170.45,173.13
+2429,traditional,quarterly,MSA,"Albany-Schenectady-Troy, NY",10580,2012,purchase-only,2,171.1,169.99
+2430,traditional,quarterly,MSA,"Albany-Schenectady-Troy, NY",10580,2012,purchase-only,3,172.22,170.77
+2431,traditional,quarterly,MSA,"Albany-Schenectady-Troy, NY",10580,2012,purchase-only,4,171.79,171.64
+2432,traditional,quarterly,MSA,"Albuquerque, NM",10740,2012,purchase-only,1,188.81,191.49
+2433,traditional,quarterly,MSA,"Albuquerque, NM",10740,2012,purchase-only,2,197.99,195.78
+2434,traditional,quarterly,MSA,"Albuquerque, NM",10740,2012,purchase-only,3,198.79,196.45
+2435,traditional,quarterly,MSA,"Albuquerque, NM",10740,2012,purchase-only,4,193.26,194.11
+2436,traditional,quarterly,MSA,"Allentown-Bethlehem-Easton, PA-NJ",10900,2012,purchase-only,1,150.42,153.29
+2437,traditional,quarterly,MSA,"Allentown-Bethlehem-Easton, PA-NJ",10900,2012,purchase-only,2,156.79,154.93
+2438,traditional,quarterly,MSA,"Allentown-Bethlehem-Easton, PA-NJ",10900,2012,purchase-only,3,154.15,152.23
+2439,traditional,quarterly,MSA,"Allentown-Bethlehem-Easton, PA-NJ",10900,2012,purchase-only,4,153.75,153.72
+2440,traditional,quarterly,MSA,"Anaheim-Santa Ana-Irvine, CA (MSAD)",11244,2012,purchase-only,1,197.79,197.18
+2441,traditional,quarterly,MSA,"Anaheim-Santa Ana-Irvine, CA (MSAD)",11244,2012,purchase-only,2,200.81,198.46
+2442,traditional,quarterly,MSA,"Anaheim-Santa Ana-Irvine, CA (MSAD)",11244,2012,purchase-only,3,206.14,203.81
+2443,traditional,quarterly,MSA,"Anaheim-Santa Ana-Irvine, CA (MSAD)",11244,2012,purchase-only,4,211.62,211.47
+2444,traditional,quarterly,MSA,"Atlanta-Sandy Springs-Alpharetta, GA",12060,2012,purchase-only,1,136.03,138.18
+2445,traditional,quarterly,MSA,"Atlanta-Sandy Springs-Alpharetta, GA",12060,2012,purchase-only,2,148.75,146.25
+2446,traditional,quarterly,MSA,"Atlanta-Sandy Springs-Alpharetta, GA",12060,2012,purchase-only,3,153.02,151.13
+2447,traditional,quarterly,MSA,"Atlanta-Sandy Springs-Alpharetta, GA",12060,2012,purchase-only,4,154.51,156.31
+2448,traditional,quarterly,MSA,"Austin-Round Rock-Georgetown, TX",12420,2012,purchase-only,1,262.15,264.98
+2449,traditional,quarterly,MSA,"Austin-Round Rock-Georgetown, TX",12420,2012,purchase-only,2,274.48,270.04
+2450,traditional,quarterly,MSA,"Austin-Round Rock-Georgetown, TX",12420,2012,purchase-only,3,280.57,277.66
+2451,traditional,quarterly,MSA,"Austin-Round Rock-Georgetown, TX",12420,2012,purchase-only,4,277.38,280.99
+2452,traditional,quarterly,MSA,"Bakersfield, CA",12540,2012,purchase-only,1,121.73,122.64
+2453,traditional,quarterly,MSA,"Bakersfield, CA",12540,2012,purchase-only,2,129.13,128.17
+2454,traditional,quarterly,MSA,"Bakersfield, CA",12540,2012,purchase-only,3,133.54,132.65
+2455,traditional,quarterly,MSA,"Bakersfield, CA",12540,2012,purchase-only,4,140.4,139.68
+2456,traditional,quarterly,MSA,"Baltimore-Columbia-Towson, MD",12580,2012,purchase-only,1,207.6,207.51
+2457,traditional,quarterly,MSA,"Baltimore-Columbia-Towson, MD",12580,2012,purchase-only,2,214.22,208.83
+2458,traditional,quarterly,MSA,"Baltimore-Columbia-Towson, MD",12580,2012,purchase-only,3,212.73,208.92
+2459,traditional,quarterly,MSA,"Baltimore-Columbia-Towson, MD",12580,2012,purchase-only,4,211.52,211.28
+2460,traditional,quarterly,MSA,"Baton Rouge, LA",12940,2012,purchase-only,1,219.35,219.29
+2461,traditional,quarterly,MSA,"Baton Rouge, LA",12940,2012,purchase-only,2,219.36,217.7
+2462,traditional,quarterly,MSA,"Baton Rouge, LA",12940,2012,purchase-only,3,221.25,219.75
+2463,traditional,quarterly,MSA,"Baton Rouge, LA",12940,2012,purchase-only,4,221.66,220.79
+2464,traditional,quarterly,MSA,"Birmingham-Hoover, AL",13820,2012,purchase-only,1,173.55,177.12
+2465,traditional,quarterly,MSA,"Birmingham-Hoover, AL",13820,2012,purchase-only,2,186.83,183.87
+2466,traditional,quarterly,MSA,"Birmingham-Hoover, AL",13820,2012,purchase-only,3,182.5,180.32
+2467,traditional,quarterly,MSA,"Birmingham-Hoover, AL",13820,2012,purchase-only,4,179.2,180.18
+2468,traditional,quarterly,MSA,"Boise City, ID",14260,2012,purchase-only,1,172.89,174.44
+2469,traditional,quarterly,MSA,"Boise City, ID",14260,2012,purchase-only,2,195.88,192.69
+2470,traditional,quarterly,MSA,"Boise City, ID",14260,2012,purchase-only,3,203.34,199.14
+2471,traditional,quarterly,MSA,"Boise City, ID",14260,2012,purchase-only,4,202.84,205.41
+2472,traditional,quarterly,MSA,"Boston, MA (MSAD)",14454,2012,purchase-only,1,217.48,219.89
+2473,traditional,quarterly,MSA,"Boston, MA (MSAD)",14454,2012,purchase-only,2,227.45,222.75
+2474,traditional,quarterly,MSA,"Boston, MA (MSAD)",14454,2012,purchase-only,3,227.98,222.94
+2475,traditional,quarterly,MSA,"Boston, MA (MSAD)",14454,2012,purchase-only,4,225.63,225.02
+2476,traditional,quarterly,MSA,"Bridgeport-Stamford-Norwalk, CT",14860,2012,purchase-only,1,185.3,188.28
+2477,traditional,quarterly,MSA,"Bridgeport-Stamford-Norwalk, CT",14860,2012,purchase-only,2,184.82,181.87
+2478,traditional,quarterly,MSA,"Bridgeport-Stamford-Norwalk, CT",14860,2012,purchase-only,3,185.56,183.36
+2479,traditional,quarterly,MSA,"Bridgeport-Stamford-Norwalk, CT",14860,2012,purchase-only,4,183.49,184.45
+2480,traditional,quarterly,MSA,"Buffalo-Cheektowaga, NY",15380,2012,purchase-only,1,152.8,153.88
+2481,traditional,quarterly,MSA,"Buffalo-Cheektowaga, NY",15380,2012,purchase-only,2,153.59,152.37
+2482,traditional,quarterly,MSA,"Buffalo-Cheektowaga, NY",15380,2012,purchase-only,3,158.29,154.16
+2483,traditional,quarterly,MSA,"Buffalo-Cheektowaga, NY",15380,2012,purchase-only,4,156.85,155.2
+2484,traditional,quarterly,MSA,"Cambridge-Newton-Framingham, MA (MSAD)",15764,2012,purchase-only,1,210.23,212.22
+2485,traditional,quarterly,MSA,"Cambridge-Newton-Framingham, MA (MSAD)",15764,2012,purchase-only,2,217.9,213.99
+2486,traditional,quarterly,MSA,"Cambridge-Newton-Framingham, MA (MSAD)",15764,2012,purchase-only,3,223.21,218.06
+2487,traditional,quarterly,MSA,"Cambridge-Newton-Framingham, MA (MSAD)",15764,2012,purchase-only,4,220.42,220.13
+2488,traditional,quarterly,MSA,"Camden, NJ (MSAD)",15804,2012,purchase-only,1,161.76,163.71
+2489,traditional,quarterly,MSA,"Camden, NJ (MSAD)",15804,2012,purchase-only,2,164.66,163.28
+2490,traditional,quarterly,MSA,"Camden, NJ (MSAD)",15804,2012,purchase-only,3,163.99,162.9
+2491,traditional,quarterly,MSA,"Camden, NJ (MSAD)",15804,2012,purchase-only,4,164.59,166.02
+2492,traditional,quarterly,MSA,"Cape Coral-Fort Myers, FL",15980,2012,purchase-only,1,146.16,148.1
+2493,traditional,quarterly,MSA,"Cape Coral-Fort Myers, FL",15980,2012,purchase-only,2,154.88,153.24
+2494,traditional,quarterly,MSA,"Cape Coral-Fort Myers, FL",15980,2012,purchase-only,3,153.41,153.23
+2495,traditional,quarterly,MSA,"Cape Coral-Fort Myers, FL",15980,2012,purchase-only,4,160.81,160.45
+2496,traditional,quarterly,MSA,"Charleston-North Charleston, SC",16700,2012,purchase-only,1,202.88,204.85
+2497,traditional,quarterly,MSA,"Charleston-North Charleston, SC",16700,2012,purchase-only,2,219.24,217.49
+2498,traditional,quarterly,MSA,"Charleston-North Charleston, SC",16700,2012,purchase-only,3,223.45,220.13
+2499,traditional,quarterly,MSA,"Charleston-North Charleston, SC",16700,2012,purchase-only,4,220.74,221.53
+2500,traditional,quarterly,MSA,"Charlotte-Concord-Gastonia, NC-SC",16740,2012,purchase-only,1,157.09,160.09
+2501,traditional,quarterly,MSA,"Charlotte-Concord-Gastonia, NC-SC",16740,2012,purchase-only,2,169.02,164.99
+2502,traditional,quarterly,MSA,"Charlotte-Concord-Gastonia, NC-SC",16740,2012,purchase-only,3,169.75,167.06
+2503,traditional,quarterly,MSA,"Charlotte-Concord-Gastonia, NC-SC",16740,2012,purchase-only,4,164.87,163.88
+2504,traditional,quarterly,MSA,"Chicago-Naperville-Evanston, IL (MSAD)",16984,2012,purchase-only,1,155.55,159.68
+2505,traditional,quarterly,MSA,"Chicago-Naperville-Evanston, IL (MSAD)",16984,2012,purchase-only,2,164.92,161.68
+2506,traditional,quarterly,MSA,"Chicago-Naperville-Evanston, IL (MSAD)",16984,2012,purchase-only,3,166.83,163.22
+2507,traditional,quarterly,MSA,"Chicago-Naperville-Evanston, IL (MSAD)",16984,2012,purchase-only,4,161.76,162.93
+2508,traditional,quarterly,MSA,"Cincinnati, OH-KY-IN",17140,2012,purchase-only,1,152.94,154.71
+2509,traditional,quarterly,MSA,"Cincinnati, OH-KY-IN",17140,2012,purchase-only,2,157.73,154.76
+2510,traditional,quarterly,MSA,"Cincinnati, OH-KY-IN",17140,2012,purchase-only,3,158.35,155.99
+2511,traditional,quarterly,MSA,"Cincinnati, OH-KY-IN",17140,2012,purchase-only,4,153.85,155.65
+2512,traditional,quarterly,MSA,"Cleveland-Elyria, OH",17460,2012,purchase-only,1,132.13,135.07
+2513,traditional,quarterly,MSA,"Cleveland-Elyria, OH",17460,2012,purchase-only,2,141.08,138.23
+2514,traditional,quarterly,MSA,"Cleveland-Elyria, OH",17460,2012,purchase-only,3,145.23,140.79
+2515,traditional,quarterly,MSA,"Cleveland-Elyria, OH",17460,2012,purchase-only,4,140.42,140.2
+2516,traditional,quarterly,MSA,"Colorado Springs, CO",17820,2012,purchase-only,1,213.92,217.27
+2517,traditional,quarterly,MSA,"Colorado Springs, CO",17820,2012,purchase-only,2,229.38,225.31
+2518,traditional,quarterly,MSA,"Colorado Springs, CO",17820,2012,purchase-only,3,236.44,231.63
+2519,traditional,quarterly,MSA,"Colorado Springs, CO",17820,2012,purchase-only,4,236.77,238.96
+2520,traditional,quarterly,MSA,"Columbia, SC",17900,2012,purchase-only,1,160.48,160.88
+2521,traditional,quarterly,MSA,"Columbia, SC",17900,2012,purchase-only,2,171.83,170.0
+2522,traditional,quarterly,MSA,"Columbia, SC",17900,2012,purchase-only,3,166.48,164.36
+2523,traditional,quarterly,MSA,"Columbia, SC",17900,2012,purchase-only,4,158.9,160.87
+2524,traditional,quarterly,MSA,"Columbus, OH",18140,2012,purchase-only,1,157.93,160.5
+2525,traditional,quarterly,MSA,"Columbus, OH",18140,2012,purchase-only,2,166.72,164.71
+2526,traditional,quarterly,MSA,"Columbus, OH",18140,2012,purchase-only,3,169.9,167.08
+2527,traditional,quarterly,MSA,"Columbus, OH",18140,2012,purchase-only,4,162.95,164.11
+2528,traditional,quarterly,MSA,"Dallas-Plano-Irving, TX (MSAD)",19124,2012,purchase-only,1,166.47,167.08
+2529,traditional,quarterly,MSA,"Dallas-Plano-Irving, TX (MSAD)",19124,2012,purchase-only,2,172.88,169.76
+2530,traditional,quarterly,MSA,"Dallas-Plano-Irving, TX (MSAD)",19124,2012,purchase-only,3,175.18,173.01
+2531,traditional,quarterly,MSA,"Dallas-Plano-Irving, TX (MSAD)",19124,2012,purchase-only,4,176.91,177.58
+2532,traditional,quarterly,MSA,"Dayton-Kettering, OH",19430,2012,purchase-only,1,129.38,130.98
+2533,traditional,quarterly,MSA,"Dayton-Kettering, OH",19430,2012,purchase-only,2,133.92,130.55
+2534,traditional,quarterly,MSA,"Dayton-Kettering, OH",19430,2012,purchase-only,3,135.32,131.95
+2535,traditional,quarterly,MSA,"Dayton-Kettering, OH",19430,2012,purchase-only,4,129.91,130.04
+2536,traditional,quarterly,MSA,"Denver-Aurora-Lakewood, CO",19740,2012,purchase-only,1,258.15,259.91
+2537,traditional,quarterly,MSA,"Denver-Aurora-Lakewood, CO",19740,2012,purchase-only,2,274.53,268.37
+2538,traditional,quarterly,MSA,"Denver-Aurora-Lakewood, CO",19740,2012,purchase-only,3,278.51,275.35
+2539,traditional,quarterly,MSA,"Denver-Aurora-Lakewood, CO",19740,2012,purchase-only,4,281.09,282.84
+2540,traditional,quarterly,MSA,"Detroit-Dearborn-Livonia, MI (MSAD)",19804,2012,purchase-only,1,111.59,114.15
+2541,traditional,quarterly,MSA,"Detroit-Dearborn-Livonia, MI (MSAD)",19804,2012,purchase-only,2,126.61,124.69
+2542,traditional,quarterly,MSA,"Detroit-Dearborn-Livonia, MI (MSAD)",19804,2012,purchase-only,3,136.58,131.16
+2543,traditional,quarterly,MSA,"Detroit-Dearborn-Livonia, MI (MSAD)",19804,2012,purchase-only,4,130.0,130.54
+2544,traditional,quarterly,MSA,"Elgin, IL (MSAD)",20994,2012,purchase-only,1,128.91,131.5
+2545,traditional,quarterly,MSA,"Elgin, IL (MSAD)",20994,2012,purchase-only,2,131.7,131.08
+2546,traditional,quarterly,MSA,"Elgin, IL (MSAD)",20994,2012,purchase-only,3,132.53,129.01
+2547,traditional,quarterly,MSA,"Elgin, IL (MSAD)",20994,2012,purchase-only,4,131.66,132.27
+2548,traditional,quarterly,MSA,"El Paso, TX",21340,2012,purchase-only,1,170.03,171.96
+2549,traditional,quarterly,MSA,"El Paso, TX",21340,2012,purchase-only,2,172.62,172.36
+2550,traditional,quarterly,MSA,"El Paso, TX",21340,2012,purchase-only,3,178.36,176.53
+2551,traditional,quarterly,MSA,"El Paso, TX",21340,2012,purchase-only,4,178.32,177.1
+2552,traditional,quarterly,MSA,"Fort Lauderdale-Pompano Beach-Sunrise, FL (MSAD)",22744,2012,purchase-only,1,186.05,187.74
+2553,traditional,quarterly,MSA,"Fort Lauderdale-Pompano Beach-Sunrise, FL (MSAD)",22744,2012,purchase-only,2,195.74,195.39
+2554,traditional,quarterly,MSA,"Fort Lauderdale-Pompano Beach-Sunrise, FL (MSAD)",22744,2012,purchase-only,3,200.79,199.71
+2555,traditional,quarterly,MSA,"Fort Lauderdale-Pompano Beach-Sunrise, FL (MSAD)",22744,2012,purchase-only,4,202.78,201.63
+2556,traditional,quarterly,MSA,"Fort Worth-Arlington-Grapevine, TX (MSAD)",23104,2012,purchase-only,1,164.13,165.56
+2557,traditional,quarterly,MSA,"Fort Worth-Arlington-Grapevine, TX (MSAD)",23104,2012,purchase-only,2,166.51,165.57
+2558,traditional,quarterly,MSA,"Fort Worth-Arlington-Grapevine, TX (MSAD)",23104,2012,purchase-only,3,170.01,167.98
+2559,traditional,quarterly,MSA,"Fort Worth-Arlington-Grapevine, TX (MSAD)",23104,2012,purchase-only,4,169.11,170.25
+2560,traditional,quarterly,MSA,"Frederick-Gaithersburg-Rockville, MD (MSAD)",23224,2012,purchase-only,1,201.73,205.83
+2561,traditional,quarterly,MSA,"Frederick-Gaithersburg-Rockville, MD (MSAD)",23224,2012,purchase-only,2,218.98,213.61
+2562,traditional,quarterly,MSA,"Frederick-Gaithersburg-Rockville, MD (MSAD)",23224,2012,purchase-only,3,218.0,215.93
+2563,traditional,quarterly,MSA,"Frederick-Gaithersburg-Rockville, MD (MSAD)",23224,2012,purchase-only,4,219.48,219.98
+2564,traditional,quarterly,MSA,"Fresno, CA",23420,2012,purchase-only,1,140.47,141.69
+2565,traditional,quarterly,MSA,"Fresno, CA",23420,2012,purchase-only,2,148.14,147.43
+2566,traditional,quarterly,MSA,"Fresno, CA",23420,2012,purchase-only,3,151.3,150.18
+2567,traditional,quarterly,MSA,"Fresno, CA",23420,2012,purchase-only,4,157.11,156.48
+2568,traditional,quarterly,MSA,"Gary, IN (MSAD)",23844,2012,purchase-only,1,159.07,158.71
+2569,traditional,quarterly,MSA,"Gary, IN (MSAD)",23844,2012,purchase-only,2,167.64,166.22
+2570,traditional,quarterly,MSA,"Gary, IN (MSAD)",23844,2012,purchase-only,3,166.46,164.39
+2571,traditional,quarterly,MSA,"Gary, IN (MSAD)",23844,2012,purchase-only,4,169.99,168.61
+2572,traditional,quarterly,MSA,"Grand Rapids-Kentwood, MI",24340,2012,purchase-only,1,140.76,144.04
+2573,traditional,quarterly,MSA,"Grand Rapids-Kentwood, MI",24340,2012,purchase-only,2,149.52,146.66
+2574,traditional,quarterly,MSA,"Grand Rapids-Kentwood, MI",24340,2012,purchase-only,3,152.98,149.61
+2575,traditional,quarterly,MSA,"Grand Rapids-Kentwood, MI",24340,2012,purchase-only,4,149.59,151.0
+2576,traditional,quarterly,MSA,"Greensboro-High Point, NC",24660,2012,purchase-only,1,140.84,142.08
+2577,traditional,quarterly,MSA,"Greensboro-High Point, NC",24660,2012,purchase-only,2,146.39,145.61
+2578,traditional,quarterly,MSA,"Greensboro-High Point, NC",24660,2012,purchase-only,3,152.0,149.67
+2579,traditional,quarterly,MSA,"Greensboro-High Point, NC",24660,2012,purchase-only,4,146.92,148.75
+2580,traditional,quarterly,MSA,"Greenville-Anderson, SC",24860,2012,purchase-only,1,173.54,175.75
+2581,traditional,quarterly,MSA,"Greenville-Anderson, SC",24860,2012,purchase-only,2,181.08,179.16
+2582,traditional,quarterly,MSA,"Greenville-Anderson, SC",24860,2012,purchase-only,3,181.54,178.91
+2583,traditional,quarterly,MSA,"Greenville-Anderson, SC",24860,2012,purchase-only,4,179.73,180.88
+2584,traditional,quarterly,MSA,"Hartford-East Hartford-Middletown, CT",25540,2012,purchase-only,1,142.65,144.44
+2585,traditional,quarterly,MSA,"Hartford-East Hartford-Middletown, CT",25540,2012,purchase-only,2,149.06,146.2
+2586,traditional,quarterly,MSA,"Hartford-East Hartford-Middletown, CT",25540,2012,purchase-only,3,148.94,146.48
+2587,traditional,quarterly,MSA,"Hartford-East Hartford-Middletown, CT",25540,2012,purchase-only,4,146.6,146.76
+2588,traditional,quarterly,MSA,"Houston-The Woodlands-Sugar Land, TX",26420,2012,purchase-only,1,200.43,200.87
+2589,traditional,quarterly,MSA,"Houston-The Woodlands-Sugar Land, TX",26420,2012,purchase-only,2,208.7,206.29
+2590,traditional,quarterly,MSA,"Houston-The Woodlands-Sugar Land, TX",26420,2012,purchase-only,3,214.31,212.44
+2591,traditional,quarterly,MSA,"Houston-The Woodlands-Sugar Land, TX",26420,2012,purchase-only,4,215.87,215.32
+2592,traditional,quarterly,MSA,"Indianapolis-Carmel-Anderson, IN",26900,2012,purchase-only,1,144.31,146.65
+2593,traditional,quarterly,MSA,"Indianapolis-Carmel-Anderson, IN",26900,2012,purchase-only,2,152.98,151.06
+2594,traditional,quarterly,MSA,"Indianapolis-Carmel-Anderson, IN",26900,2012,purchase-only,3,152.04,150.26
+2595,traditional,quarterly,MSA,"Indianapolis-Carmel-Anderson, IN",26900,2012,purchase-only,4,150.39,151.51
+2596,traditional,quarterly,MSA,"Jacksonville, FL",27260,2012,purchase-only,1,184.43,186.12
+2597,traditional,quarterly,MSA,"Jacksonville, FL",27260,2012,purchase-only,2,185.08,182.29
+2598,traditional,quarterly,MSA,"Jacksonville, FL",27260,2012,purchase-only,3,193.8,191.03
+2599,traditional,quarterly,MSA,"Jacksonville, FL",27260,2012,purchase-only,4,183.37,180.72
+2600,traditional,quarterly,MSA,"Kansas City, MO-KS",28140,2012,purchase-only,1,168.37,171.78
+2601,traditional,quarterly,MSA,"Kansas City, MO-KS",28140,2012,purchase-only,2,171.43,168.83
+2602,traditional,quarterly,MSA,"Kansas City, MO-KS",28140,2012,purchase-only,3,179.57,175.53
+2603,traditional,quarterly,MSA,"Kansas City, MO-KS",28140,2012,purchase-only,4,173.19,174.46
+2604,traditional,quarterly,MSA,"Knoxville, TN",28940,2012,purchase-only,1,182.89,185.02
+2605,traditional,quarterly,MSA,"Knoxville, TN",28940,2012,purchase-only,2,189.07,185.49
+2606,traditional,quarterly,MSA,"Knoxville, TN",28940,2012,purchase-only,3,185.48,183.13
+2607,traditional,quarterly,MSA,"Knoxville, TN",28940,2012,purchase-only,4,187.46,186.64
+2608,traditional,quarterly,MSA,"Lake County-Kenosha County, IL-WI (MSAD)",29404,2012,purchase-only,1,141.2,144.15
+2609,traditional,quarterly,MSA,"Lake County-Kenosha County, IL-WI (MSAD)",29404,2012,purchase-only,2,144.9,142.17
+2610,traditional,quarterly,MSA,"Lake County-Kenosha County, IL-WI (MSAD)",29404,2012,purchase-only,3,146.26,142.97
+2611,traditional,quarterly,MSA,"Lake County-Kenosha County, IL-WI (MSAD)",29404,2012,purchase-only,4,139.72,140.58
+2612,traditional,quarterly,MSA,"Las Vegas-Henderson-Paradise, NV",29820,2012,purchase-only,1,100.24,100.08
+2613,traditional,quarterly,MSA,"Las Vegas-Henderson-Paradise, NV",29820,2012,purchase-only,2,106.08,105.28
+2614,traditional,quarterly,MSA,"Las Vegas-Henderson-Paradise, NV",29820,2012,purchase-only,3,113.58,112.23
+2615,traditional,quarterly,MSA,"Las Vegas-Henderson-Paradise, NV",29820,2012,purchase-only,4,118.4,118.35
+2616,traditional,quarterly,MSA,"Little Rock-North Little Rock-Conway, AR",30780,2012,purchase-only,1,182.0,182.99
+2617,traditional,quarterly,MSA,"Little Rock-North Little Rock-Conway, AR",30780,2012,purchase-only,2,191.49,189.69
+2618,traditional,quarterly,MSA,"Little Rock-North Little Rock-Conway, AR",30780,2012,purchase-only,3,187.49,186.9
+2619,traditional,quarterly,MSA,"Little Rock-North Little Rock-Conway, AR",30780,2012,purchase-only,4,185.25,186.6
+2620,traditional,quarterly,MSA,"Los Angeles-Long Beach-Glendale, CA (MSAD)",31084,2012,purchase-only,1,165.62,165.88
+2621,traditional,quarterly,MSA,"Los Angeles-Long Beach-Glendale, CA (MSAD)",31084,2012,purchase-only,2,173.93,171.96
+2622,traditional,quarterly,MSA,"Los Angeles-Long Beach-Glendale, CA (MSAD)",31084,2012,purchase-only,3,178.43,175.6
+2623,traditional,quarterly,MSA,"Los Angeles-Long Beach-Glendale, CA (MSAD)",31084,2012,purchase-only,4,183.02,182.3
+2624,traditional,quarterly,MSA,"Louisville/Jefferson County, KY-IN",31140,2012,purchase-only,1,187.01,189.81
+2625,traditional,quarterly,MSA,"Louisville/Jefferson County, KY-IN",31140,2012,purchase-only,2,193.66,191.77
+2626,traditional,quarterly,MSA,"Louisville/Jefferson County, KY-IN",31140,2012,purchase-only,3,194.72,192.47
+2627,traditional,quarterly,MSA,"Louisville/Jefferson County, KY-IN",31140,2012,purchase-only,4,193.0,194.16
+2628,traditional,quarterly,MSA,"Memphis, TN-MS-AR",32820,2012,purchase-only,1,144.41,146.48
+2629,traditional,quarterly,MSA,"Memphis, TN-MS-AR",32820,2012,purchase-only,2,150.73,148.95
+2630,traditional,quarterly,MSA,"Memphis, TN-MS-AR",32820,2012,purchase-only,3,149.74,148.93
+2631,traditional,quarterly,MSA,"Memphis, TN-MS-AR",32820,2012,purchase-only,4,149.56,151.28
+2632,traditional,quarterly,MSA,"Miami-Miami Beach-Kendall, FL (MSAD)",33124,2012,purchase-only,1,215.54,217.98
+2633,traditional,quarterly,MSA,"Miami-Miami Beach-Kendall, FL (MSAD)",33124,2012,purchase-only,2,240.48,237.51
+2634,traditional,quarterly,MSA,"Miami-Miami Beach-Kendall, FL (MSAD)",33124,2012,purchase-only,3,236.04,233.73
+2635,traditional,quarterly,MSA,"Miami-Miami Beach-Kendall, FL (MSAD)",33124,2012,purchase-only,4,245.94,246.54
+2636,traditional,quarterly,MSA,"Milwaukee-Waukesha, WI",33340,2012,purchase-only,1,186.08,188.5
+2637,traditional,quarterly,MSA,"Milwaukee-Waukesha, WI",33340,2012,purchase-only,2,193.83,188.94
+2638,traditional,quarterly,MSA,"Milwaukee-Waukesha, WI",33340,2012,purchase-only,3,196.95,191.99
+2639,traditional,quarterly,MSA,"Milwaukee-Waukesha, WI",33340,2012,purchase-only,4,191.59,191.58
+2640,traditional,quarterly,MSA,"Minneapolis-St. Paul-Bloomington, MN-WI",33460,2012,purchase-only,1,183.25,188.91
+2641,traditional,quarterly,MSA,"Minneapolis-St. Paul-Bloomington, MN-WI",33460,2012,purchase-only,2,198.26,195.14
+2642,traditional,quarterly,MSA,"Minneapolis-St. Paul-Bloomington, MN-WI",33460,2012,purchase-only,3,204.12,199.79
+2643,traditional,quarterly,MSA,"Minneapolis-St. Paul-Bloomington, MN-WI",33460,2012,purchase-only,4,204.7,205.44
+2644,traditional,quarterly,MSA,"Montgomery County-Bucks County-Chester County, PA (MSAD)",33874,2012,purchase-only,1,182.13,182.83
+2645,traditional,quarterly,MSA,"Montgomery County-Bucks County-Chester County, PA (MSAD)",33874,2012,purchase-only,2,186.15,183.55
+2646,traditional,quarterly,MSA,"Montgomery County-Bucks County-Chester County, PA (MSAD)",33874,2012,purchase-only,3,185.51,183.04
+2647,traditional,quarterly,MSA,"Montgomery County-Bucks County-Chester County, PA (MSAD)",33874,2012,purchase-only,4,183.61,184.3
+2648,traditional,quarterly,MSA,"Nashville-Davidson--Murfreesboro--Franklin, TN",34980,2012,purchase-only,1,190.89,194.37
+2649,traditional,quarterly,MSA,"Nashville-Davidson--Murfreesboro--Franklin, TN",34980,2012,purchase-only,2,204.52,200.59
+2650,traditional,quarterly,MSA,"Nashville-Davidson--Murfreesboro--Franklin, TN",34980,2012,purchase-only,3,207.26,205.41
+2651,traditional,quarterly,MSA,"Nashville-Davidson--Murfreesboro--Franklin, TN",34980,2012,purchase-only,4,206.17,206.86
+2652,traditional,quarterly,MSA,"Nassau County-Suffolk County, NY (MSAD)",35004,2012,purchase-only,1,233.48,235.04
+2653,traditional,quarterly,MSA,"Nassau County-Suffolk County, NY (MSAD)",35004,2012,purchase-only,2,238.54,237.22
+2654,traditional,quarterly,MSA,"Nassau County-Suffolk County, NY (MSAD)",35004,2012,purchase-only,3,241.48,239.37
+2655,traditional,quarterly,MSA,"Nassau County-Suffolk County, NY (MSAD)",35004,2012,purchase-only,4,239.92,239.4
+2656,traditional,quarterly,MSA,"Newark, NJ-PA (MSAD)",35084,2012,purchase-only,1,202.54,206.18
+2657,traditional,quarterly,MSA,"Newark, NJ-PA (MSAD)",35084,2012,purchase-only,2,214.13,211.13
+2658,traditional,quarterly,MSA,"Newark, NJ-PA (MSAD)",35084,2012,purchase-only,3,214.1,210.25
+2659,traditional,quarterly,MSA,"Newark, NJ-PA (MSAD)",35084,2012,purchase-only,4,209.93,210.63
+2660,traditional,quarterly,MSA,"New Haven-Milford, CT",35300,2012,purchase-only,1,150.4,153.98
+2661,traditional,quarterly,MSA,"New Haven-Milford, CT",35300,2012,purchase-only,2,157.28,155.2
+2662,traditional,quarterly,MSA,"New Haven-Milford, CT",35300,2012,purchase-only,3,160.61,157.07
+2663,traditional,quarterly,MSA,"New Haven-Milford, CT",35300,2012,purchase-only,4,150.97,151.76
+2664,traditional,quarterly,MSA,"New Orleans-Metairie, LA",35380,2012,purchase-only,1,226.95,227.77
+2665,traditional,quarterly,MSA,"New Orleans-Metairie, LA",35380,2012,purchase-only,2,233.43,229.13
+2666,traditional,quarterly,MSA,"New Orleans-Metairie, LA",35380,2012,purchase-only,3,237.32,234.08
+2667,traditional,quarterly,MSA,"New Orleans-Metairie, LA",35380,2012,purchase-only,4,233.2,232.68
+2668,traditional,quarterly,MSA,"New York-Jersey City-White Plains, NY-NJ (MSAD)",35614,2012,purchase-only,1,221.53,223.7
+2669,traditional,quarterly,MSA,"New York-Jersey City-White Plains, NY-NJ (MSAD)",35614,2012,purchase-only,2,219.28,218.69
+2670,traditional,quarterly,MSA,"New York-Jersey City-White Plains, NY-NJ (MSAD)",35614,2012,purchase-only,3,227.79,224.62
+2671,traditional,quarterly,MSA,"New York-Jersey City-White Plains, NY-NJ (MSAD)",35614,2012,purchase-only,4,224.19,224.04
+2672,traditional,quarterly,MSA,"North Port-Sarasota-Bradenton, FL",35840,2012,purchase-only,1,169.54,169.82
+2673,traditional,quarterly,MSA,"North Port-Sarasota-Bradenton, FL",35840,2012,purchase-only,2,173.35,172.71
+2674,traditional,quarterly,MSA,"North Port-Sarasota-Bradenton, FL",35840,2012,purchase-only,3,180.88,179.83
+2675,traditional,quarterly,MSA,"North Port-Sarasota-Bradenton, FL",35840,2012,purchase-only,4,176.62,179.15
+2676,traditional,quarterly,MSA,"Oakland-Berkeley-Livermore, CA (MSAD)",36084,2012,purchase-only,1,163.55,165.91
+2677,traditional,quarterly,MSA,"Oakland-Berkeley-Livermore, CA (MSAD)",36084,2012,purchase-only,2,173.99,170.27
+2678,traditional,quarterly,MSA,"Oakland-Berkeley-Livermore, CA (MSAD)",36084,2012,purchase-only,3,180.01,177.38
+2679,traditional,quarterly,MSA,"Oakland-Berkeley-Livermore, CA (MSAD)",36084,2012,purchase-only,4,187.2,188.41
+2680,traditional,quarterly,MSA,"Oklahoma City, OK",36420,2012,purchase-only,1,192.45,194.33
+2681,traditional,quarterly,MSA,"Oklahoma City, OK",36420,2012,purchase-only,2,204.39,199.85
+2682,traditional,quarterly,MSA,"Oklahoma City, OK",36420,2012,purchase-only,3,204.79,202.11
+2683,traditional,quarterly,MSA,"Oklahoma City, OK",36420,2012,purchase-only,4,204.44,205.46
+2684,traditional,quarterly,MSA,"Omaha-Council Bluffs, NE-IA",36540,2012,purchase-only,1,182.73,184.08
+2685,traditional,quarterly,MSA,"Omaha-Council Bluffs, NE-IA",36540,2012,purchase-only,2,189.93,187.04
+2686,traditional,quarterly,MSA,"Omaha-Council Bluffs, NE-IA",36540,2012,purchase-only,3,190.67,188.15
+2687,traditional,quarterly,MSA,"Omaha-Council Bluffs, NE-IA",36540,2012,purchase-only,4,189.96,190.9
+2688,traditional,quarterly,MSA,"Orlando-Kissimmee-Sanford, FL",36740,2012,purchase-only,1,148.62,149.0
+2689,traditional,quarterly,MSA,"Orlando-Kissimmee-Sanford, FL",36740,2012,purchase-only,2,152.9,152.05
+2690,traditional,quarterly,MSA,"Orlando-Kissimmee-Sanford, FL",36740,2012,purchase-only,3,159.72,158.33
+2691,traditional,quarterly,MSA,"Orlando-Kissimmee-Sanford, FL",36740,2012,purchase-only,4,164.06,164.72
+2692,traditional,quarterly,MSA,"Oxnard-Thousand Oaks-Ventura, CA",37100,2012,purchase-only,1,175.12,176.21
+2693,traditional,quarterly,MSA,"Oxnard-Thousand Oaks-Ventura, CA",37100,2012,purchase-only,2,176.88,175.65
+2694,traditional,quarterly,MSA,"Oxnard-Thousand Oaks-Ventura, CA",37100,2012,purchase-only,3,182.88,181.03
+2695,traditional,quarterly,MSA,"Oxnard-Thousand Oaks-Ventura, CA",37100,2012,purchase-only,4,183.7,185.07
+2696,traditional,quarterly,MSA,"Philadelphia, PA (MSAD)",37964,2012,purchase-only,1,211.51,211.82
+2697,traditional,quarterly,MSA,"Philadelphia, PA (MSAD)",37964,2012,purchase-only,2,215.82,212.43
+2698,traditional,quarterly,MSA,"Philadelphia, PA (MSAD)",37964,2012,purchase-only,3,213.75,213.37
+2699,traditional,quarterly,MSA,"Philadelphia, PA (MSAD)",37964,2012,purchase-only,4,216.48,216.22
+2700,traditional,quarterly,MSA,"Phoenix-Mesa-Chandler, AZ",38060,2012,purchase-only,1,175.0,175.89
+2701,traditional,quarterly,MSA,"Phoenix-Mesa-Chandler, AZ",38060,2012,purchase-only,2,188.25,186.32
+2702,traditional,quarterly,MSA,"Phoenix-Mesa-Chandler, AZ",38060,2012,purchase-only,3,203.11,202.37
+2703,traditional,quarterly,MSA,"Phoenix-Mesa-Chandler, AZ",38060,2012,purchase-only,4,206.71,207.59
+2704,traditional,quarterly,MSA,"Pittsburgh, PA",38300,2012,purchase-only,1,182.46,186.29
+2705,traditional,quarterly,MSA,"Pittsburgh, PA",38300,2012,purchase-only,2,189.68,187.46
+2706,traditional,quarterly,MSA,"Pittsburgh, PA",38300,2012,purchase-only,3,193.68,190.81
+2707,traditional,quarterly,MSA,"Pittsburgh, PA",38300,2012,purchase-only,4,192.57,193.56
+2708,traditional,quarterly,MSA,"Portland-Vancouver-Hillsboro, OR-WA",38900,2012,purchase-only,1,244.24,247.23
+2709,traditional,quarterly,MSA,"Portland-Vancouver-Hillsboro, OR-WA",38900,2012,purchase-only,2,261.15,257.02
+2710,traditional,quarterly,MSA,"Portland-Vancouver-Hillsboro, OR-WA",38900,2012,purchase-only,3,270.82,266.01
+2711,traditional,quarterly,MSA,"Portland-Vancouver-Hillsboro, OR-WA",38900,2012,purchase-only,4,266.21,266.7
+2712,traditional,quarterly,MSA,"Providence-Warwick, RI-MA",39300,2012,purchase-only,1,174.67,176.97
+2713,traditional,quarterly,MSA,"Providence-Warwick, RI-MA",39300,2012,purchase-only,2,178.76,176.66
+2714,traditional,quarterly,MSA,"Providence-Warwick, RI-MA",39300,2012,purchase-only,3,178.93,177.18
+2715,traditional,quarterly,MSA,"Providence-Warwick, RI-MA",39300,2012,purchase-only,4,178.62,177.75
+2716,traditional,quarterly,MSA,"Raleigh-Cary, NC",39580,2012,purchase-only,1,180.0,181.94
+2717,traditional,quarterly,MSA,"Raleigh-Cary, NC",39580,2012,purchase-only,2,182.94,179.96
+2718,traditional,quarterly,MSA,"Raleigh-Cary, NC",39580,2012,purchase-only,3,185.46,183.92
+2719,traditional,quarterly,MSA,"Raleigh-Cary, NC",39580,2012,purchase-only,4,181.22,182.72
+2720,traditional,quarterly,MSA,"Richmond, VA",40060,2012,purchase-only,1,181.35,184.2
+2721,traditional,quarterly,MSA,"Richmond, VA",40060,2012,purchase-only,2,192.38,187.19
+2722,traditional,quarterly,MSA,"Richmond, VA",40060,2012,purchase-only,3,195.73,191.9
+2723,traditional,quarterly,MSA,"Richmond, VA",40060,2012,purchase-only,4,193.06,193.35
+2724,traditional,quarterly,MSA,"Riverside-San Bernardino-Ontario, CA",40140,2012,purchase-only,1,129.3,130.41
+2725,traditional,quarterly,MSA,"Riverside-San Bernardino-Ontario, CA",40140,2012,purchase-only,2,135.01,134.26
+2726,traditional,quarterly,MSA,"Riverside-San Bernardino-Ontario, CA",40140,2012,purchase-only,3,138.1,137.18
+2727,traditional,quarterly,MSA,"Riverside-San Bernardino-Ontario, CA",40140,2012,purchase-only,4,143.62,142.83
+2728,traditional,quarterly,MSA,"Rochester, NY",40380,2012,purchase-only,1,136.63,137.21
+2729,traditional,quarterly,MSA,"Rochester, NY",40380,2012,purchase-only,2,141.0,139.62
+2730,traditional,quarterly,MSA,"Rochester, NY",40380,2012,purchase-only,3,141.69,139.1
+2731,traditional,quarterly,MSA,"Rochester, NY",40380,2012,purchase-only,4,140.16,140.31
+2732,traditional,quarterly,MSA,"Sacramento-Roseville-Folsom, CA",40900,2012,purchase-only,1,127.54,128.43
+2733,traditional,quarterly,MSA,"Sacramento-Roseville-Folsom, CA",40900,2012,purchase-only,2,132.58,131.14
+2734,traditional,quarterly,MSA,"Sacramento-Roseville-Folsom, CA",40900,2012,purchase-only,3,137.76,135.74
+2735,traditional,quarterly,MSA,"Sacramento-Roseville-Folsom, CA",40900,2012,purchase-only,4,143.96,144.05
+2736,traditional,quarterly,MSA,"St. Louis, MO-IL",41180,2012,purchase-only,1,173.59,174.62
+2737,traditional,quarterly,MSA,"St. Louis, MO-IL",41180,2012,purchase-only,2,180.99,176.71
+2738,traditional,quarterly,MSA,"St. Louis, MO-IL",41180,2012,purchase-only,3,180.27,176.42
+2739,traditional,quarterly,MSA,"St. Louis, MO-IL",41180,2012,purchase-only,4,176.85,178.36
+2740,traditional,quarterly,MSA,"Salt Lake City, UT",41620,2012,purchase-only,1,265.09,267.39
+2741,traditional,quarterly,MSA,"Salt Lake City, UT",41620,2012,purchase-only,2,281.62,277.6
+2742,traditional,quarterly,MSA,"Salt Lake City, UT",41620,2012,purchase-only,3,286.12,283.2
+2743,traditional,quarterly,MSA,"Salt Lake City, UT",41620,2012,purchase-only,4,289.97,291.28
+2744,traditional,quarterly,MSA,"San Antonio-New Braunfels, TX",41700,2012,purchase-only,1,202.1,203.68
+2745,traditional,quarterly,MSA,"San Antonio-New Braunfels, TX",41700,2012,purchase-only,2,213.73,212.2
+2746,traditional,quarterly,MSA,"San Antonio-New Braunfels, TX",41700,2012,purchase-only,3,207.86,206.73
+2747,traditional,quarterly,MSA,"San Antonio-New Braunfels, TX",41700,2012,purchase-only,4,219.93,221.22
+2748,traditional,quarterly,MSA,"San Diego-Chula Vista-Carlsbad, CA",41740,2012,purchase-only,1,188.78,190.89
+2749,traditional,quarterly,MSA,"San Diego-Chula Vista-Carlsbad, CA",41740,2012,purchase-only,2,196.96,195.93
+2750,traditional,quarterly,MSA,"San Diego-Chula Vista-Carlsbad, CA",41740,2012,purchase-only,3,203.58,200.84
+2751,traditional,quarterly,MSA,"San Diego-Chula Vista-Carlsbad, CA",41740,2012,purchase-only,4,207.22,208.81
+2752,traditional,quarterly,MSA,"San Francisco-San Mateo-Redwood City, CA (MSAD)",41884,2012,purchase-only,1,217.61,217.36
+2753,traditional,quarterly,MSA,"San Francisco-San Mateo-Redwood City, CA (MSAD)",41884,2012,purchase-only,2,227.19,223.88
+2754,traditional,quarterly,MSA,"San Francisco-San Mateo-Redwood City, CA (MSAD)",41884,2012,purchase-only,3,240.47,237.47
+2755,traditional,quarterly,MSA,"San Francisco-San Mateo-Redwood City, CA (MSAD)",41884,2012,purchase-only,4,242.54,243.61
+2756,traditional,quarterly,MSA,"San Jose-Sunnyvale-Santa Clara, CA",41940,2012,purchase-only,1,206.14,210.47
+2757,traditional,quarterly,MSA,"San Jose-Sunnyvale-Santa Clara, CA",41940,2012,purchase-only,2,220.43,216.43
+2758,traditional,quarterly,MSA,"San Jose-Sunnyvale-Santa Clara, CA",41940,2012,purchase-only,3,227.73,225.51
+2759,traditional,quarterly,MSA,"San Jose-Sunnyvale-Santa Clara, CA",41940,2012,purchase-only,4,234.8,236.34
+2760,traditional,quarterly,MSA,"Seattle-Bellevue-Kent, WA (MSAD)",42644,2012,purchase-only,1,204.15,205.6
+2761,traditional,quarterly,MSA,"Seattle-Bellevue-Kent, WA (MSAD)",42644,2012,purchase-only,2,216.5,212.08
+2762,traditional,quarterly,MSA,"Seattle-Bellevue-Kent, WA (MSAD)",42644,2012,purchase-only,3,222.55,219.26
+2763,traditional,quarterly,MSA,"Seattle-Bellevue-Kent, WA (MSAD)",42644,2012,purchase-only,4,227.64,229.42
+2764,traditional,quarterly,MSA,"Stockton, CA",44700,2012,purchase-only,1,109.74,110.26
+2765,traditional,quarterly,MSA,"Stockton, CA",44700,2012,purchase-only,2,114.73,113.88
+2766,traditional,quarterly,MSA,"Stockton, CA",44700,2012,purchase-only,3,116.4,115.57
+2767,traditional,quarterly,MSA,"Stockton, CA",44700,2012,purchase-only,4,123.41,123.0
+2768,traditional,quarterly,MSA,"Syracuse, NY",45060,2012,purchase-only,1,143.16,145.77
+2769,traditional,quarterly,MSA,"Syracuse, NY",45060,2012,purchase-only,2,147.7,145.83
+2770,traditional,quarterly,MSA,"Syracuse, NY",45060,2012,purchase-only,3,149.35,145.46
+2771,traditional,quarterly,MSA,"Syracuse, NY",45060,2012,purchase-only,4,148.67,147.79
+2772,traditional,quarterly,MSA,"Tacoma-Lakewood, WA (MSAD)",45104,2012,purchase-only,1,184.13,183.35
+2773,traditional,quarterly,MSA,"Tacoma-Lakewood, WA (MSAD)",45104,2012,purchase-only,2,189.69,187.12
+2774,traditional,quarterly,MSA,"Tacoma-Lakewood, WA (MSAD)",45104,2012,purchase-only,3,194.06,188.81
+2775,traditional,quarterly,MSA,"Tacoma-Lakewood, WA (MSAD)",45104,2012,purchase-only,4,196.07,196.51
+2776,traditional,quarterly,MSA,"Tampa-St. Petersburg-Clearwater, FL",45300,2012,purchase-only,1,175.27,176.77
+2777,traditional,quarterly,MSA,"Tampa-St. Petersburg-Clearwater, FL",45300,2012,purchase-only,2,183.5,181.8
+2778,traditional,quarterly,MSA,"Tampa-St. Petersburg-Clearwater, FL",45300,2012,purchase-only,3,186.6,183.57
+2779,traditional,quarterly,MSA,"Tampa-St. Petersburg-Clearwater, FL",45300,2012,purchase-only,4,188.26,188.73
+2780,traditional,quarterly,MSA,"Tucson, AZ",46060,2012,purchase-only,1,174.25,179.47
+2781,traditional,quarterly,MSA,"Tucson, AZ",46060,2012,purchase-only,2,189.76,188.31
+2782,traditional,quarterly,MSA,"Tucson, AZ",46060,2012,purchase-only,3,197.29,194.29
+2783,traditional,quarterly,MSA,"Tucson, AZ",46060,2012,purchase-only,4,198.38,199.19
+2784,traditional,quarterly,MSA,"Tulsa, OK",46140,2012,purchase-only,1,180.48,182.77
+2785,traditional,quarterly,MSA,"Tulsa, OK",46140,2012,purchase-only,2,183.64,181.78
+2786,traditional,quarterly,MSA,"Tulsa, OK",46140,2012,purchase-only,3,187.42,185.28
+2787,traditional,quarterly,MSA,"Tulsa, OK",46140,2012,purchase-only,4,187.68,188.66
+2788,traditional,quarterly,MSA,"Urban Honolulu, HI",46520,2012,purchase-only,1,183.5,183.93
+2789,traditional,quarterly,MSA,"Urban Honolulu, HI",46520,2012,purchase-only,2,197.37,195.48
+2790,traditional,quarterly,MSA,"Urban Honolulu, HI",46520,2012,purchase-only,3,194.14,189.61
+2791,traditional,quarterly,MSA,"Urban Honolulu, HI",46520,2012,purchase-only,4,207.85,205.95
+2792,traditional,quarterly,MSA,"Virginia Beach-Norfolk-Newport News, VA-NC",47260,2012,purchase-only,1,203.43,206.71
+2793,traditional,quarterly,MSA,"Virginia Beach-Norfolk-Newport News, VA-NC",47260,2012,purchase-only,2,211.2,208.57
+2794,traditional,quarterly,MSA,"Virginia Beach-Norfolk-Newport News, VA-NC",47260,2012,purchase-only,3,215.2,212.61
+2795,traditional,quarterly,MSA,"Virginia Beach-Norfolk-Newport News, VA-NC",47260,2012,purchase-only,4,215.08,217.39
+2796,traditional,quarterly,MSA,"Warren-Troy-Farmington Hills, MI (MSAD)",47664,2012,purchase-only,1,125.59,127.97
+2797,traditional,quarterly,MSA,"Warren-Troy-Farmington Hills, MI (MSAD)",47664,2012,purchase-only,2,136.4,133.86
+2798,traditional,quarterly,MSA,"Warren-Troy-Farmington Hills, MI (MSAD)",47664,2012,purchase-only,3,142.4,139.4
+2799,traditional,quarterly,MSA,"Warren-Troy-Farmington Hills, MI (MSAD)",47664,2012,purchase-only,4,144.25,143.5
+2800,traditional,quarterly,MSA,"Washington-Arlington-Alexandria, DC-VA-MD-WV (MSAD)",47894,2012,purchase-only,1,216.2,219.44
+2801,traditional,quarterly,MSA,"Washington-Arlington-Alexandria, DC-VA-MD-WV (MSAD)",47894,2012,purchase-only,2,230.63,225.51
+2802,traditional,quarterly,MSA,"Washington-Arlington-Alexandria, DC-VA-MD-WV (MSAD)",47894,2012,purchase-only,3,231.79,228.03
+2803,traditional,quarterly,MSA,"Washington-Arlington-Alexandria, DC-VA-MD-WV (MSAD)",47894,2012,purchase-only,4,232.19,233.04
+2804,traditional,quarterly,MSA,"West Palm Beach-Boca Raton-Boynton Beach, FL (MSAD)",48424,2012,purchase-only,1,161.65,161.97
+2805,traditional,quarterly,MSA,"West Palm Beach-Boca Raton-Boynton Beach, FL (MSAD)",48424,2012,purchase-only,2,166.55,165.7
+2806,traditional,quarterly,MSA,"West Palm Beach-Boca Raton-Boynton Beach, FL (MSAD)",48424,2012,purchase-only,3,179.9,177.81
+2807,traditional,quarterly,MSA,"West Palm Beach-Boca Raton-Boynton Beach, FL (MSAD)",48424,2012,purchase-only,4,180.84,179.95
+2808,traditional,quarterly,MSA,"Wichita, KS",48620,2012,purchase-only,1,163.42,166.17
+2809,traditional,quarterly,MSA,"Wichita, KS",48620,2012,purchase-only,2,172.45,168.62
+2810,traditional,quarterly,MSA,"Wichita, KS",48620,2012,purchase-only,3,174.29,170.87
+2811,traditional,quarterly,MSA,"Wichita, KS",48620,2012,purchase-only,4,173.64,171.72
+2812,traditional,quarterly,MSA,"Wilmington, DE-MD-NJ (MSAD)",48864,2012,purchase-only,1,163.43,165.05
+2813,traditional,quarterly,MSA,"Wilmington, DE-MD-NJ (MSAD)",48864,2012,purchase-only,2,172.39,169.69
+2814,traditional,quarterly,MSA,"Wilmington, DE-MD-NJ (MSAD)",48864,2012,purchase-only,3,173.19,171.18
+2815,traditional,quarterly,MSA,"Wilmington, DE-MD-NJ (MSAD)",48864,2012,purchase-only,4,169.35,169.3
+2816,traditional,quarterly,MSA,"Winston-Salem, NC",49180,2012,purchase-only,1,155.86,156.1
+2817,traditional,quarterly,MSA,"Winston-Salem, NC",49180,2012,purchase-only,2,155.98,153.94
+2818,traditional,quarterly,MSA,"Winston-Salem, NC",49180,2012,purchase-only,3,160.12,158.04
+2819,traditional,quarterly,MSA,"Winston-Salem, NC",49180,2012,purchase-only,4,157.44,158.14
+2820,traditional,quarterly,MSA,"Worcester, MA-CT",49340,2012,purchase-only,1,165.65,169.3
+2821,traditional,quarterly,MSA,"Worcester, MA-CT",49340,2012,purchase-only,2,173.53,171.42
+2822,traditional,quarterly,MSA,"Worcester, MA-CT",49340,2012,purchase-only,3,174.41,172.72
+2823,traditional,quarterly,MSA,"Worcester, MA-CT",49340,2012,purchase-only,4,177.44,177.0
+2824,traditional,quarterly,State,Alaska,AK,2012,purchase-only,1,214.51,217.01
+2825,traditional,quarterly,State,Alaska,AK,2012,purchase-only,2,225.42,222.84
+2826,traditional,quarterly,State,Alaska,AK,2012,purchase-only,3,230.72,226.86
+2827,traditional,quarterly,State,Alaska,AK,2012,purchase-only,4,226.19,225.97
+2828,traditional,quarterly,State,Alabama,AL,2012,purchase-only,1,172.22,173.54
+2829,traditional,quarterly,State,Alabama,AL,2012,purchase-only,2,178.26,176.26
+2830,traditional,quarterly,State,Alabama,AL,2012,purchase-only,3,175.73,173.14
+2831,traditional,quarterly,State,Alabama,AL,2012,purchase-only,4,175.92,176.71
+2832,traditional,quarterly,State,Arkansas,AR,2012,purchase-only,1,178.56,177.91
+2833,traditional,quarterly,State,Arkansas,AR,2012,purchase-only,2,182.95,181.78
+2834,traditional,quarterly,State,Arkansas,AR,2012,purchase-only,3,181.86,181.24
+2835,traditional,quarterly,State,Arkansas,AR,2012,purchase-only,4,180.24,181.56
+2836,traditional,quarterly,State,Arizona,AZ,2012,purchase-only,1,172.71,173.64
+2837,traditional,quarterly,State,Arizona,AZ,2012,purchase-only,2,184.55,183.13
+2838,traditional,quarterly,State,Arizona,AZ,2012,purchase-only,3,194.82,193.2
+2839,traditional,quarterly,State,Arizona,AZ,2012,purchase-only,4,197.62,198.2
+2840,traditional,quarterly,State,California,CA,2012,purchase-only,1,153.03,154.05
+2841,traditional,quarterly,State,California,CA,2012,purchase-only,2,160.36,158.6
+2842,traditional,quarterly,State,California,CA,2012,purchase-only,3,164.36,162.21
+2843,traditional,quarterly,State,California,CA,2012,purchase-only,4,169.94,169.68
+2844,traditional,quarterly,State,Colorado,CO,2012,purchase-only,1,247.6,250.0
+2845,traditional,quarterly,State,Colorado,CO,2012,purchase-only,2,264.32,259.22
+2846,traditional,quarterly,State,Colorado,CO,2012,purchase-only,3,268.54,264.77
+2847,traditional,quarterly,State,Colorado,CO,2012,purchase-only,4,268.98,270.47
+2848,traditional,quarterly,State,Connecticut,CT,2012,purchase-only,1,156.36,159.11
+2849,traditional,quarterly,State,Connecticut,CT,2012,purchase-only,2,160.89,158.31
+2850,traditional,quarterly,State,Connecticut,CT,2012,purchase-only,3,161.75,159.1
+2851,traditional,quarterly,State,Connecticut,CT,2012,purchase-only,4,158.52,159.07
+2852,traditional,quarterly,State,District of Columbia,DC,2012,purchase-only,1,332.23,334.46
+2853,traditional,quarterly,State,District of Columbia,DC,2012,purchase-only,2,341.75,338.3
+2854,traditional,quarterly,State,District of Columbia,DC,2012,purchase-only,3,358.48,351.63
+2855,traditional,quarterly,State,District of Columbia,DC,2012,purchase-only,4,356.41,353.32
+2856,traditional,quarterly,State,Delaware,DE,2012,purchase-only,1,169.19,169.58
+2857,traditional,quarterly,State,Delaware,DE,2012,purchase-only,2,173.07,172.41
+2858,traditional,quarterly,State,Delaware,DE,2012,purchase-only,3,176.59,175.67
+2859,traditional,quarterly,State,Delaware,DE,2012,purchase-only,4,177.63,176.66
+2860,traditional,quarterly,State,Florida,FL,2012,purchase-only,1,171.41,172.42
+2861,traditional,quarterly,State,Florida,FL,2012,purchase-only,2,177.59,176.65
+2862,traditional,quarterly,State,Florida,FL,2012,purchase-only,3,181.99,180.44
+2863,traditional,quarterly,State,Florida,FL,2012,purchase-only,4,183.5,183.52
+2864,traditional,quarterly,State,Georgia,GA,2012,purchase-only,1,145.08,146.7
+2865,traditional,quarterly,State,Georgia,GA,2012,purchase-only,2,152.66,150.63
+2866,traditional,quarterly,State,Georgia,GA,2012,purchase-only,3,156.6,154.28
+2867,traditional,quarterly,State,Georgia,GA,2012,purchase-only,4,156.99,157.69
+2868,traditional,quarterly,State,Hawaii,HI,2012,purchase-only,1,170.84,170.03
+2869,traditional,quarterly,State,Hawaii,HI,2012,purchase-only,2,177.79,178.24
+2870,traditional,quarterly,State,Hawaii,HI,2012,purchase-only,3,177.85,176.83
+2871,traditional,quarterly,State,Hawaii,HI,2012,purchase-only,4,183.0,184.31
+2872,traditional,quarterly,State,Iowa,IA,2012,purchase-only,1,192.93,194.32
+2873,traditional,quarterly,State,Iowa,IA,2012,purchase-only,2,196.49,193.98
+2874,traditional,quarterly,State,Iowa,IA,2012,purchase-only,3,198.77,195.46
+2875,traditional,quarterly,State,Iowa,IA,2012,purchase-only,4,197.39,196.91
+2876,traditional,quarterly,State,Idaho,ID,2012,purchase-only,1,182.05,184.76
+2877,traditional,quarterly,State,Idaho,ID,2012,purchase-only,2,198.39,195.0
+2878,traditional,quarterly,State,Idaho,ID,2012,purchase-only,3,203.33,198.11
+2879,traditional,quarterly,State,Idaho,ID,2012,purchase-only,4,200.08,201.24
+2880,traditional,quarterly,State,Illinois,IL,2012,purchase-only,1,159.16,162.3
+2881,traditional,quarterly,State,Illinois,IL,2012,purchase-only,2,165.9,163.08
+2882,traditional,quarterly,State,Illinois,IL,2012,purchase-only,3,167.41,164.02
+2883,traditional,quarterly,State,Illinois,IL,2012,purchase-only,4,162.68,163.53
+2884,traditional,quarterly,State,Indiana,IN,2012,purchase-only,1,153.19,155.1
+2885,traditional,quarterly,State,Indiana,IN,2012,purchase-only,2,158.57,156.51
+2886,traditional,quarterly,State,Indiana,IN,2012,purchase-only,3,158.3,156.15
+2887,traditional,quarterly,State,Indiana,IN,2012,purchase-only,4,158.42,158.21
+2888,traditional,quarterly,State,Kansas,KS,2012,purchase-only,1,183.88,186.26
+2889,traditional,quarterly,State,Kansas,KS,2012,purchase-only,2,189.18,187.45
+2890,traditional,quarterly,State,Kansas,KS,2012,purchase-only,3,193.89,191.17
+2891,traditional,quarterly,State,Kansas,KS,2012,purchase-only,4,191.4,191.5
+2892,traditional,quarterly,State,Kentucky,KY,2012,purchase-only,1,181.59,184.11
+2893,traditional,quarterly,State,Kentucky,KY,2012,purchase-only,2,186.33,185.28
+2894,traditional,quarterly,State,Kentucky,KY,2012,purchase-only,3,186.22,184.93
+2895,traditional,quarterly,State,Kentucky,KY,2012,purchase-only,4,185.24,186.58
+2896,traditional,quarterly,State,Louisiana,LA,2012,purchase-only,1,222.13,222.8
+2897,traditional,quarterly,State,Louisiana,LA,2012,purchase-only,2,228.0,225.72
+2898,traditional,quarterly,State,Louisiana,LA,2012,purchase-only,3,230.94,228.65
+2899,traditional,quarterly,State,Louisiana,LA,2012,purchase-only,4,229.53,229.57
+2900,traditional,quarterly,State,Massachusetts,MA,2012,purchase-only,1,204.07,206.11
+2901,traditional,quarterly,State,Massachusetts,MA,2012,purchase-only,2,209.56,207.09
+2902,traditional,quarterly,State,Massachusetts,MA,2012,purchase-only,3,212.08,209.04
+2903,traditional,quarterly,State,Massachusetts,MA,2012,purchase-only,4,211.54,211.26
+2904,traditional,quarterly,State,Maryland,MD,2012,purchase-only,1,195.24,197.11
+2905,traditional,quarterly,State,Maryland,MD,2012,purchase-only,2,206.8,202.23
+2906,traditional,quarterly,State,Maryland,MD,2012,purchase-only,3,204.99,202.04
+2907,traditional,quarterly,State,Maryland,MD,2012,purchase-only,4,205.84,205.21
+2908,traditional,quarterly,State,Maine,ME,2012,purchase-only,1,193.21,195.12
+2909,traditional,quarterly,State,Maine,ME,2012,purchase-only,2,194.33,195.27
+2910,traditional,quarterly,State,Maine,ME,2012,purchase-only,3,194.14,193.14
+2911,traditional,quarterly,State,Maine,ME,2012,purchase-only,4,198.32,198.6
+2912,traditional,quarterly,State,Michigan,MI,2012,purchase-only,1,138.01,140.99
+2913,traditional,quarterly,State,Michigan,MI,2012,purchase-only,2,147.41,145.1
+2914,traditional,quarterly,State,Michigan,MI,2012,purchase-only,3,151.13,147.5
+2915,traditional,quarterly,State,Michigan,MI,2012,purchase-only,4,150.48,150.25
+2916,traditional,quarterly,State,Minnesota,MN,2012,purchase-only,1,191.9,196.12
+2917,traditional,quarterly,State,Minnesota,MN,2012,purchase-only,2,202.42,199.66
+2918,traditional,quarterly,State,Minnesota,MN,2012,purchase-only,3,207.22,203.38
+2919,traditional,quarterly,State,Minnesota,MN,2012,purchase-only,4,207.05,206.62
+2920,traditional,quarterly,State,Missouri,MO,2012,purchase-only,1,174.98,176.73
+2921,traditional,quarterly,State,Missouri,MO,2012,purchase-only,2,179.92,177.5
+2922,traditional,quarterly,State,Missouri,MO,2012,purchase-only,3,181.01,177.8
+2923,traditional,quarterly,State,Missouri,MO,2012,purchase-only,4,179.21,179.9
+2924,traditional,quarterly,State,Mississippi,MS,2012,purchase-only,1,170.85,173.9
+2925,traditional,quarterly,State,Mississippi,MS,2012,purchase-only,2,175.08,173.94
+2926,traditional,quarterly,State,Mississippi,MS,2012,purchase-only,3,177.5,176.76
+2927,traditional,quarterly,State,Mississippi,MS,2012,purchase-only,4,175.06,176.65
+2928,traditional,quarterly,State,Montana,MT,2012,purchase-only,1,285.96,285.22
+2929,traditional,quarterly,State,Montana,MT,2012,purchase-only,2,290.52,288.58
+2930,traditional,quarterly,State,Montana,MT,2012,purchase-only,3,292.42,290.25
+2931,traditional,quarterly,State,Montana,MT,2012,purchase-only,4,301.38,300.07
+2932,traditional,quarterly,State,North Carolina,NC,2012,purchase-only,1,170.33,172.18
+2933,traditional,quarterly,State,North Carolina,NC,2012,purchase-only,2,175.35,173.04
+2934,traditional,quarterly,State,North Carolina,NC,2012,purchase-only,3,175.68,173.86
+2935,traditional,quarterly,State,North Carolina,NC,2012,purchase-only,4,173.75,173.89
+2936,traditional,quarterly,State,North Dakota,ND,2012,purchase-only,1,234.51,235.6
+2937,traditional,quarterly,State,North Dakota,ND,2012,purchase-only,2,243.17,242.11
+2938,traditional,quarterly,State,North Dakota,ND,2012,purchase-only,3,248.25,246.16
+2939,traditional,quarterly,State,North Dakota,ND,2012,purchase-only,4,252.96,252.57
+2940,traditional,quarterly,State,Nebraska,NE,2012,purchase-only,1,190.31,191.48
+2941,traditional,quarterly,State,Nebraska,NE,2012,purchase-only,2,196.0,193.54
+2942,traditional,quarterly,State,Nebraska,NE,2012,purchase-only,3,196.04,194.08
+2943,traditional,quarterly,State,Nebraska,NE,2012,purchase-only,4,198.68,198.82
+2944,traditional,quarterly,State,New Hampshire,NH,2012,purchase-only,1,181.89,185.62
+2945,traditional,quarterly,State,New Hampshire,NH,2012,purchase-only,2,187.62,186.4
+2946,traditional,quarterly,State,New Hampshire,NH,2012,purchase-only,3,188.21,186.48
+2947,traditional,quarterly,State,New Hampshire,NH,2012,purchase-only,4,187.77,188.38
+2948,traditional,quarterly,State,New Jersey,NJ,2012,purchase-only,1,195.89,199.48
+2949,traditional,quarterly,State,New Jersey,NJ,2012,purchase-only,2,200.68,199.49
+2950,traditional,quarterly,State,New Jersey,NJ,2012,purchase-only,3,202.02,199.7
+2951,traditional,quarterly,State,New Jersey,NJ,2012,purchase-only,4,199.21,199.87
+2952,traditional,quarterly,State,New Mexico,NM,2012,purchase-only,1,197.75,198.6
+2953,traditional,quarterly,State,New Mexico,NM,2012,purchase-only,2,204.29,202.92
+2954,traditional,quarterly,State,New Mexico,NM,2012,purchase-only,3,204.92,202.83
+2955,traditional,quarterly,State,New Mexico,NM,2012,purchase-only,4,202.11,201.25
+2956,traditional,quarterly,State,Nevada,NV,2012,purchase-only,1,111.3,111.89
+2957,traditional,quarterly,State,Nevada,NV,2012,purchase-only,2,121.12,120.01
+2958,traditional,quarterly,State,Nevada,NV,2012,purchase-only,3,127.5,124.86
+2959,traditional,quarterly,State,Nevada,NV,2012,purchase-only,4,131.14,131.46
+2960,traditional,quarterly,State,New York,NY,2012,purchase-only,1,194.6,195.72
+2961,traditional,quarterly,State,New York,NY,2012,purchase-only,2,197.23,195.84
+2962,traditional,quarterly,State,New York,NY,2012,purchase-only,3,199.23,196.38
+2963,traditional,quarterly,State,New York,NY,2012,purchase-only,4,197.41,196.79
+2964,traditional,quarterly,State,Ohio,OH,2012,purchase-only,1,144.6,147.25
+2965,traditional,quarterly,State,Ohio,OH,2012,purchase-only,2,152.08,149.31
+2966,traditional,quarterly,State,Ohio,OH,2012,purchase-only,3,153.46,149.98
+2967,traditional,quarterly,State,Ohio,OH,2012,purchase-only,4,150.24,150.55
+2968,traditional,quarterly,State,Oklahoma,OK,2012,purchase-only,1,186.92,188.33
+2969,traditional,quarterly,State,Oklahoma,OK,2012,purchase-only,2,193.69,190.73
+2970,traditional,quarterly,State,Oklahoma,OK,2012,purchase-only,3,197.07,194.37
+2971,traditional,quarterly,State,Oklahoma,OK,2012,purchase-only,4,195.9,195.79
+2972,traditional,quarterly,State,Oregon,OR,2012,purchase-only,1,238.94,242.26
+2973,traditional,quarterly,State,Oregon,OR,2012,purchase-only,2,249.79,246.96
+2974,traditional,quarterly,State,Oregon,OR,2012,purchase-only,3,260.59,255.91
+2975,traditional,quarterly,State,Oregon,OR,2012,purchase-only,4,256.8,257.39
+2976,traditional,quarterly,State,Pennsylvania,PA,2012,purchase-only,1,177.71,179.4
+2977,traditional,quarterly,State,Pennsylvania,PA,2012,purchase-only,2,183.32,180.64
+2978,traditional,quarterly,State,Pennsylvania,PA,2012,purchase-only,3,183.32,180.93
+2979,traditional,quarterly,State,Pennsylvania,PA,2012,purchase-only,4,182.37,182.81
+2980,traditional,quarterly,State,Rhode Island,RI,2012,purchase-only,1,170.61,173.05
+2981,traditional,quarterly,State,Rhode Island,RI,2012,purchase-only,2,172.62,171.57
+2982,traditional,quarterly,State,Rhode Island,RI,2012,purchase-only,3,171.4,170.59
+2983,traditional,quarterly,State,Rhode Island,RI,2012,purchase-only,4,172.2,171.25
+2984,traditional,quarterly,State,South Carolina,SC,2012,purchase-only,1,167.6,169.27
+2985,traditional,quarterly,State,South Carolina,SC,2012,purchase-only,2,176.04,174.56
+2986,traditional,quarterly,State,South Carolina,SC,2012,purchase-only,3,175.74,173.68
+2987,traditional,quarterly,State,South Carolina,SC,2012,purchase-only,4,173.0,173.21
+2988,traditional,quarterly,State,South Dakota,SD,2012,purchase-only,1,218.63,219.72
+2989,traditional,quarterly,State,South Dakota,SD,2012,purchase-only,2,224.39,223.01
+2990,traditional,quarterly,State,South Dakota,SD,2012,purchase-only,3,227.87,225.8
+2991,traditional,quarterly,State,South Dakota,SD,2012,purchase-only,4,226.3,226.45
+2992,traditional,quarterly,State,Tennessee,TN,2012,purchase-only,1,175.39,177.34
+2993,traditional,quarterly,State,Tennessee,TN,2012,purchase-only,2,182.79,180.05
+2994,traditional,quarterly,State,Tennessee,TN,2012,purchase-only,3,183.48,181.97
+2995,traditional,quarterly,State,Tennessee,TN,2012,purchase-only,4,183.97,183.87
+2996,traditional,quarterly,State,Texas,TX,2012,purchase-only,1,186.31,187.32
+2997,traditional,quarterly,State,Texas,TX,2012,purchase-only,2,192.52,189.53
+2998,traditional,quarterly,State,Texas,TX,2012,purchase-only,3,194.87,193.08
+2999,traditional,quarterly,State,Texas,TX,2012,purchase-only,4,195.85,196.26
+3000,traditional,quarterly,State,Utah,UT,2012,purchase-only,1,241.78,243.96
+3001,traditional,quarterly,State,Utah,UT,2012,purchase-only,2,254.29,250.74
+3002,traditional,quarterly,State,Utah,UT,2012,purchase-only,3,257.63,254.03
+3003,traditional,quarterly,State,Utah,UT,2012,purchase-only,4,261.72,262.22
+3004,traditional,quarterly,State,Virginia,VA,2012,purchase-only,1,200.49,202.78
+3005,traditional,quarterly,State,Virginia,VA,2012,purchase-only,2,208.64,204.7
+3006,traditional,quarterly,State,Virginia,VA,2012,purchase-only,3,209.37,206.62
+3007,traditional,quarterly,State,Virginia,VA,2012,purchase-only,4,208.9,209.75
+3008,traditional,quarterly,State,Vermont,VT,2012,purchase-only,1,205.24,205.2
+3009,traditional,quarterly,State,Vermont,VT,2012,purchase-only,2,201.67,201.72
+3010,traditional,quarterly,State,Vermont,VT,2012,purchase-only,3,205.74,203.22
+3011,traditional,quarterly,State,Vermont,VT,2012,purchase-only,4,199.9,203.21
+3012,traditional,quarterly,State,Washington,WA,2012,purchase-only,1,201.01,202.43
+3013,traditional,quarterly,State,Washington,WA,2012,purchase-only,2,210.62,207.07
+3014,traditional,quarterly,State,Washington,WA,2012,purchase-only,3,214.68,210.8
+3015,traditional,quarterly,State,Washington,WA,2012,purchase-only,4,217.01,217.07
+3016,traditional,quarterly,State,Wisconsin,WI,2012,purchase-only,1,192.1,194.39
+3017,traditional,quarterly,State,Wisconsin,WI,2012,purchase-only,2,196.13,193.8
+3018,traditional,quarterly,State,Wisconsin,WI,2012,purchase-only,3,198.69,195.33
+3019,traditional,quarterly,State,Wisconsin,WI,2012,purchase-only,4,194.87,194.82
+3020,traditional,quarterly,State,West Virginia,WV,2012,purchase-only,1,190.71,191.35
+3021,traditional,quarterly,State,West Virginia,WV,2012,purchase-only,2,186.74,186.64
+3022,traditional,quarterly,State,West Virginia,WV,2012,purchase-only,3,188.69,186.5
+3023,traditional,quarterly,State,West Virginia,WV,2012,purchase-only,4,194.13,193.57
+3024,traditional,quarterly,State,Wyoming,WY,2012,purchase-only,1,280.56,280.32
+3025,traditional,quarterly,State,Wyoming,WY,2012,purchase-only,2,288.41,284.43
+3026,traditional,quarterly,State,Wyoming,WY,2012,purchase-only,3,295.55,289.95
+3027,traditional,quarterly,State,Wyoming,WY,2012,purchase-only,4,292.17,292.89
+3028,traditional,quarterly,USA or Census Division,East North Central Division,DV_ENC,2012,purchase-only,1,153.11,155.78
+3029,traditional,quarterly,USA or Census Division,East North Central Division,DV_ENC,2012,purchase-only,2,160.31,157.74
+3030,traditional,quarterly,USA or Census Division,East North Central Division,DV_ENC,2012,purchase-only,3,162.21,158.85
+3031,traditional,quarterly,USA or Census Division,East North Central Division,DV_ENC,2012,purchase-only,4,159.74,159.87
+3032,traditional,quarterly,USA or Census Division,East South Central Division,DV_ESC,2012,purchase-only,1,175.43,177.5
+3033,traditional,quarterly,USA or Census Division,East South Central Division,DV_ESC,2012,purchase-only,2,181.37,179.44
+3034,traditional,quarterly,USA or Census Division,East South Central Division,DV_ESC,2012,purchase-only,3,181.29,179.63
+3035,traditional,quarterly,USA or Census Division,East South Central Division,DV_ESC,2012,purchase-only,4,180.9,181.62
+3036,traditional,quarterly,USA or Census Division,Middle Atlantic Division,DV_MA,2012,purchase-only,1,188.72,190.54
+3037,traditional,quarterly,USA or Census Division,Middle Atlantic Division,DV_MA,2012,purchase-only,2,193.01,191.08
+3038,traditional,quarterly,USA or Census Division,Middle Atlantic Division,DV_MA,2012,purchase-only,3,194.08,191.44
+3039,traditional,quarterly,USA or Census Division,Middle Atlantic Division,DV_MA,2012,purchase-only,4,192.39,192.39
+3040,traditional,quarterly,USA or Census Division,Mountain Division,DV_MT,2012,purchase-only,1,199.9,201.14
+3041,traditional,quarterly,USA or Census Division,Mountain Division,DV_MT,2012,purchase-only,2,212.5,209.83
+3042,traditional,quarterly,USA or Census Division,Mountain Division,DV_MT,2012,purchase-only,3,219.03,215.95
+3043,traditional,quarterly,USA or Census Division,Mountain Division,DV_MT,2012,purchase-only,4,220.85,221.26
+3044,traditional,quarterly,USA or Census Division,New England Division,DV_NE,2012,purchase-only,1,186.35,188.55
+3045,traditional,quarterly,USA or Census Division,New England Division,DV_NE,2012,purchase-only,2,190.34,188.48
+3046,traditional,quarterly,USA or Census Division,New England Division,DV_NE,2012,purchase-only,3,191.66,189.15
+3047,traditional,quarterly,USA or Census Division,New England Division,DV_NE,2012,purchase-only,4,190.82,190.91
+3048,traditional,quarterly,USA or Census Division,Pacific Division,DV_PAC,2012,purchase-only,1,168.63,169.82
+3049,traditional,quarterly,USA or Census Division,Pacific Division,DV_PAC,2012,purchase-only,2,176.63,174.56
+3050,traditional,quarterly,USA or Census Division,Pacific Division,DV_PAC,2012,purchase-only,3,181.08,178.48
+3051,traditional,quarterly,USA or Census Division,Pacific Division,DV_PAC,2012,purchase-only,4,185.52,185.37
+3052,traditional,quarterly,USA or Census Division,South Atlantic Division,DV_SA,2012,purchase-only,1,173.11,174.54
+3053,traditional,quarterly,USA or Census Division,South Atlantic Division,DV_SA,2012,purchase-only,2,179.82,177.7
+3054,traditional,quarterly,USA or Census Division,South Atlantic Division,DV_SA,2012,purchase-only,3,182.11,179.93
+3055,traditional,quarterly,USA or Census Division,South Atlantic Division,DV_SA,2012,purchase-only,4,182.27,182.36
+3056,traditional,quarterly,USA or Census Division,West North Central Division,DV_WNC,2012,purchase-only,1,188.18,190.36
+3057,traditional,quarterly,USA or Census Division,West North Central Division,DV_WNC,2012,purchase-only,2,194.52,192.04
+3058,traditional,quarterly,USA or Census Division,West North Central Division,DV_WNC,2012,purchase-only,3,197.29,194.02
+3059,traditional,quarterly,USA or Census Division,West North Central Division,DV_WNC,2012,purchase-only,4,196.41,196.35
+3060,traditional,quarterly,USA or Census Division,West South Central Division,DV_WSC,2012,purchase-only,1,190.99,191.81
+3061,traditional,quarterly,USA or Census Division,West South Central Division,DV_WSC,2012,purchase-only,2,197.1,194.3
+3062,traditional,quarterly,USA or Census Division,West South Central Division,DV_WSC,2012,purchase-only,3,199.32,197.42
+3063,traditional,quarterly,USA or Census Division,West South Central Division,DV_WSC,2012,purchase-only,4,199.52,199.87
+3064,traditional,quarterly,USA or Census Division,United States,USA,2012,purchase-only,1,176.24,177.91
+3065,traditional,quarterly,USA or Census Division,United States,USA,2012,purchase-only,2,183.14,180.79
+3066,traditional,quarterly,USA or Census Division,United States,USA,2012,purchase-only,3,185.65,183.0
+3067,traditional,quarterly,USA or Census Division,United States,USA,2012,purchase-only,4,185.68,185.77
+3256,distress-free,quarterly,MSA,"Anaheim-Santa Ana-Irvine, CA (MSAD)",11244,2012,purchase-only,1,201.51,201.07
+3257,distress-free,quarterly,MSA,"Anaheim-Santa Ana-Irvine, CA (MSAD)",11244,2012,purchase-only,2,203.97,201.67
+3258,distress-free,quarterly,MSA,"Anaheim-Santa Ana-Irvine, CA (MSAD)",11244,2012,purchase-only,3,208.99,206.95
+3259,distress-free,quarterly,MSA,"Anaheim-Santa Ana-Irvine, CA (MSAD)",11244,2012,purchase-only,4,213.32,213.21
+3260,distress-free,quarterly,MSA,"Atlanta-Sandy Springs-Alpharetta, GA",12060,2012,purchase-only,1,159.08,160.52
+3261,distress-free,quarterly,MSA,"Atlanta-Sandy Springs-Alpharetta, GA",12060,2012,purchase-only,2,166.67,164.2
+3262,distress-free,quarterly,MSA,"Atlanta-Sandy Springs-Alpharetta, GA",12060,2012,purchase-only,3,169.25,167.89
+3263,distress-free,quarterly,MSA,"Atlanta-Sandy Springs-Alpharetta, GA",12060,2012,purchase-only,4,168.18,169.5
+3264,distress-free,quarterly,MSA,"Chicago-Naperville-Evanston, IL (MSAD)",16984,2012,purchase-only,1,168.72,171.22
+3265,distress-free,quarterly,MSA,"Chicago-Naperville-Evanston, IL (MSAD)",16984,2012,purchase-only,2,176.18,173.46
+3266,distress-free,quarterly,MSA,"Chicago-Naperville-Evanston, IL (MSAD)",16984,2012,purchase-only,3,177.78,174.54
+3267,distress-free,quarterly,MSA,"Chicago-Naperville-Evanston, IL (MSAD)",16984,2012,purchase-only,4,174.02,175.78
+3268,distress-free,quarterly,MSA,"Los Angeles-Long Beach-Glendale, CA (MSAD)",31084,2012,purchase-only,1,177.2,177.23
+3269,distress-free,quarterly,MSA,"Los Angeles-Long Beach-Glendale, CA (MSAD)",31084,2012,purchase-only,2,184.11,181.38
+3270,distress-free,quarterly,MSA,"Los Angeles-Long Beach-Glendale, CA (MSAD)",31084,2012,purchase-only,3,186.78,183.59
+3271,distress-free,quarterly,MSA,"Los Angeles-Long Beach-Glendale, CA (MSAD)",31084,2012,purchase-only,4,189.39,189.63
+3272,distress-free,quarterly,MSA,"Miami-Miami Beach-Kendall, FL (MSAD)",33124,2012,purchase-only,1,231.84,234.88
+3273,distress-free,quarterly,MSA,"Miami-Miami Beach-Kendall, FL (MSAD)",33124,2012,purchase-only,2,251.8,248.76
+3274,distress-free,quarterly,MSA,"Miami-Miami Beach-Kendall, FL (MSAD)",33124,2012,purchase-only,3,247.96,246.62
+3275,distress-free,quarterly,MSA,"Miami-Miami Beach-Kendall, FL (MSAD)",33124,2012,purchase-only,4,262.06,263.17
+3276,distress-free,quarterly,MSA,"Oakland-Berkeley-Livermore, CA (MSAD)",36084,2012,purchase-only,1,175.83,177.99
+3277,distress-free,quarterly,MSA,"Oakland-Berkeley-Livermore, CA (MSAD)",36084,2012,purchase-only,2,183.58,180.1
+3278,distress-free,quarterly,MSA,"Oakland-Berkeley-Livermore, CA (MSAD)",36084,2012,purchase-only,3,189.28,186.88
+3279,distress-free,quarterly,MSA,"Oakland-Berkeley-Livermore, CA (MSAD)",36084,2012,purchase-only,4,195.1,196.9
+3280,distress-free,quarterly,MSA,"Phoenix-Mesa-Chandler, AZ",38060,2012,purchase-only,1,187.13,187.82
+3281,distress-free,quarterly,MSA,"Phoenix-Mesa-Chandler, AZ",38060,2012,purchase-only,2,198.58,196.72
+3282,distress-free,quarterly,MSA,"Phoenix-Mesa-Chandler, AZ",38060,2012,purchase-only,3,210.83,210.63
+3283,distress-free,quarterly,MSA,"Phoenix-Mesa-Chandler, AZ",38060,2012,purchase-only,4,214.58,215.48
+3284,distress-free,quarterly,MSA,"Riverside-San Bernardino-Ontario, CA",40140,2012,purchase-only,1,139.38,140.58
+3285,distress-free,quarterly,MSA,"Riverside-San Bernardino-Ontario, CA",40140,2012,purchase-only,2,143.99,143.6
+3286,distress-free,quarterly,MSA,"Riverside-San Bernardino-Ontario, CA",40140,2012,purchase-only,3,146.23,145.78
+3287,distress-free,quarterly,MSA,"Riverside-San Bernardino-Ontario, CA",40140,2012,purchase-only,4,150.74,150.51
+3288,distress-free,quarterly,MSA,"San Diego-Chula Vista-Carlsbad, CA",41740,2012,purchase-only,1,197.19,198.61
+3289,distress-free,quarterly,MSA,"San Diego-Chula Vista-Carlsbad, CA",41740,2012,purchase-only,2,204.34,202.66
+3290,distress-free,quarterly,MSA,"San Diego-Chula Vista-Carlsbad, CA",41740,2012,purchase-only,3,210.96,207.97
+3291,distress-free,quarterly,MSA,"San Diego-Chula Vista-Carlsbad, CA",41740,2012,purchase-only,4,212.29,213.79
+3292,distress-free,quarterly,MSA,"San Francisco-San Mateo-Redwood City, CA (MSAD)",41884,2012,purchase-only,1,220.84,221.47
+3293,distress-free,quarterly,MSA,"San Francisco-San Mateo-Redwood City, CA (MSAD)",41884,2012,purchase-only,2,233.01,230.19
+3294,distress-free,quarterly,MSA,"San Francisco-San Mateo-Redwood City, CA (MSAD)",41884,2012,purchase-only,3,243.04,241.52
+3295,distress-free,quarterly,MSA,"San Francisco-San Mateo-Redwood City, CA (MSAD)",41884,2012,purchase-only,4,249.34,249.31
+3296,distress-free,quarterly,MSA,"Tampa-St. Petersburg-Clearwater, FL",45300,2012,purchase-only,1,187.68,188.78
+3297,distress-free,quarterly,MSA,"Tampa-St. Petersburg-Clearwater, FL",45300,2012,purchase-only,2,195.02,193.52
+3298,distress-free,quarterly,MSA,"Tampa-St. Petersburg-Clearwater, FL",45300,2012,purchase-only,3,199.87,197.02
+3299,distress-free,quarterly,MSA,"Tampa-St. Petersburg-Clearwater, FL",45300,2012,purchase-only,4,201.16,201.12
+3300,distress-free,quarterly,MSA,"Warren-Troy-Farmington Hills, MI (MSAD)",47664,2012,purchase-only,1,136.01,137.72
+3301,distress-free,quarterly,MSA,"Warren-Troy-Farmington Hills, MI (MSAD)",47664,2012,purchase-only,2,144.95,142.15
+3302,distress-free,quarterly,MSA,"Warren-Troy-Farmington Hills, MI (MSAD)",47664,2012,purchase-only,3,150.2,147.58
+3303,distress-free,quarterly,MSA,"Warren-Troy-Farmington Hills, MI (MSAD)",47664,2012,purchase-only,4,152.08,151.72
+3308,developmental,quarterly,Puerto Rico,Puerto Rico,PR,2012,purchase-only,1,178.93,180.62
+3309,developmental,quarterly,Puerto Rico,Puerto Rico,PR,2012,purchase-only,2,183.04,180.76
+3310,developmental,quarterly,Puerto Rico,Puerto Rico,PR,2012,purchase-only,3,178.24,180.71
+3311,developmental,quarterly,Puerto Rico,Puerto Rico,PR,2012,purchase-only,4,182.23,180.98
