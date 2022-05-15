@@ -335,7 +335,20 @@ WHERE (place_id BETWEEN '2022' AND '2022');
 SELECT * FROM twothousandtwentytwo_table;
 
 
+-- HOUSEHOLD DEBT
 
+
+CREATE TABLE householdDebt (
+	year INT NOT NULL,
+	qtr INT NOT NULL,
+	state_fips INT NOT NULL,
+	low VARCHAR,
+	high VARCHAR
+);
+
+DROP TABLE householdDebt;
+
+SELECT * FROM householdDebt;
 
 
 
