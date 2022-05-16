@@ -22,3 +22,19 @@ Down below is a sample of data using SQL.
 
 <img width="1076" alt="hpi_table" src="https://user-images.githubusercontent.com/65638310/167280128-950385b3-e316-4dc2-be2f-32605b486d4f.png">
 
+## Second Segment Deliverable 
+
+### Presentation
+    Link to our developing presentation: https://docs.google.com/presentation/d/1mFdGQxLgh6vyrf8ICaeMgpGHqsTdZ5wPPCPurxvz_3Q/edit?usp=sharing
+    
+### Protocols
+   - Description of communication Protocols: Slack and zoom meetings.
+   
+### Outline
+    Will be using answering questions stated in first segment using HPI information, market research, and household debt from the past 20 years. 
+    
+    Datasets were extracted and cleaned from various goverment websites.
+    
+    Machine Learning steps are currently taking place to start analyzing the data that was collected. To compare the trends throughout the years and what lead to previous falls and what trends are currently going on now. 
+    
+ 
