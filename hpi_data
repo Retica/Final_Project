@@ -1,0 +1,391 @@
+-- file for data sample taken from challenge M07
+--CREATE TABLE employees (
+--	 emp_no INT NOT NULL,
+--   birth_date DATE NOT NULL,
+-- first_name VARCHAR NOT NULL,
+--     last_name VARCHAR NOT NULL,
+--     gender VARCHAR NOT NULL,
+--     hire_date DATE NOT NULL,
+--     PRIMARY KEY (emp_no)
+--);       	index_sa FLOAT NOT NULL
+
+
+-- use this as template. Adjust to what will be needed for the csv. then you create
+--CREATE table and should see in schemas and then should be able to add csv from there. --
+
+CREATE TABLE HPItype (
+	hpi_type VARCHAR (25) NOT NULL,
+	hpi_flavor VARCHAR NOT NULL,
+	frequency VARCHAR NOT NULL,
+	level VARCHAR NOT NULL,
+	place_name VARCHAR (40) NOT NULL,
+	place_id VARCHAR (10) NOT NULL,
+	yr VARCHAR NOT NULL,
+	period INT NOT NULL,
+	index_nsa FLOAT NOT NULL,
+	index_sa FLOAT
+);
+
+DROP TABLE HPItype;
+
+SELECT * FROM HPItype;
+
+-- Creating Tables that will be dividing per year
+-- Example below taken from Challenge M07
+--SELECT DISTINCT ON (e.emp_no) e.emp_no, e.first_name, e.last_name, e.birth_date, s.from_date, s.to_date, title, s.salary 
+--INTO retiring_salaries
+--FROM employees AS e
+--JOIN salaries AS s ON e.emp_no = s.emp_no
+--JOIN titles ON s.emp_no = titles.emp_no
+--WHERE (birth_date BETWEEN '1952-01-01' AND '1955-12-31')
+--AND (hire_date BETWEEN '1985-01-01' AND '1988-12-31')
+--ORDER BY emp_no;
+
+-- Table for 1991
+
+SELECT hpi_type, hpi_flavor, frequency, level, place_name, 
+place_id, yr, period, index_nsa, index_sa
+INTO ninetyone_table
+FROM hpitype
+WHERE (place_id BETWEEN '1991' AND '1991');
+
+SELECT * FROM ninetyone_table;
+
+
+-- Table for 1992
+SELECT hpi_type, hpi_flavor, frequency, level, place_name, 
+place_id, yr, period, index_nsa, index_sa
+INTO ninetytwo_table
+FROM hpitype
+WHERE (place_id BETWEEN '1992' AND '1992');
+
+SELECT * FROM ninetytwo_table;
+
+--Table for 1993
+SELECT hpi_type, hpi_flavor, frequency, level, place_name, 
+place_id, yr, period, index_nsa, index_sa
+INTO ninetythree_table
+FROM hpitype
+WHERE (place_id BETWEEN '1993' AND '1993');
+
+SELECT * FROM ninetythree_table;
+
+-- Table for 1994
+SELECT hpi_type, hpi_flavor, frequency, level, place_name, 
+place_id, yr, period, index_nsa, index_sa
+INTO ninetyfour_table
+FROM hpitype
+WHERE (place_id BETWEEN '1994' AND '1994');
+
+SELECT * FROM ninetyfour_table;
+
+-- Table for 1995
+SELECT hpi_type, hpi_flavor, frequency, level, place_name, 
+place_id, yr, period, index_nsa, index_sa
+INTO ninetyfive_table
+FROM hpitype
+WHERE (place_id BETWEEN '1995' AND '1995');
+
+SELECT * FROM ninetyfive_table;
+
+
+-- Table for 1996
+SELECT hpi_type, hpi_flavor, frequency, level, place_name, 
+place_id, yr, period, index_nsa, index_sa
+INTO ninetysix_table
+FROM hpitype
+WHERE (place_id BETWEEN '1996' AND '1996');
+
+SELECT * FROM ninetysix_table;
+
+-- Table for 1997
+SELECT hpi_type, hpi_flavor, frequency, level, place_name, 
+place_id, yr, period, index_nsa, index_sa
+INTO ninetyseven_table
+FROM hpitype
+WHERE (place_id BETWEEN '1997' AND '1997');
+
+SELECT * FROM ninetyseven_table;
+
+-- Table for 1998
+SELECT hpi_type, hpi_flavor, frequency, level, place_name, 
+place_id, yr, period, index_nsa, index_sa
+INTO ninetyeight_table
+FROM hpitype
+WHERE (place_id BETWEEN '1998' AND '1998');
+
+SELECT * FROM ninetyeight_table;
+
+-- Table for 1999
+SELECT hpi_type, hpi_flavor, frequency, level, place_name, 
+place_id, yr, period, index_nsa, index_sa
+INTO ninetynine_table
+FROM hpitype
+WHERE (place_id BETWEEN '1999' AND '1999');
+
+SELECT * FROM ninetynine_table;
+
+-- Table for 2000
+SELECT hpi_type, hpi_flavor, frequency, level, place_name, 
+place_id, yr, period, index_nsa, index_sa
+INTO twothousand_table
+FROM hpitype
+WHERE (place_id BETWEEN '2000' AND '2000');
+
+SELECT * FROM twothousand_table;
+
+-- Table for 2001
+SELECT hpi_type, hpi_flavor, frequency, level, place_name, 
+place_id, yr, period, index_nsa, index_sa
+INTO twothousandone_table
+FROM hpitype
+WHERE (place_id BETWEEN '2001' AND '2001');
+
+SELECT * FROM twothousandone_table;
+
+-- Table for 2002
+SELECT hpi_type, hpi_flavor, frequency, level, place_name, 
+place_id, yr, period, index_nsa, index_sa
+INTO twothousandtwo_table
+FROM hpitype
+WHERE (place_id BETWEEN '2002' AND '2002');
+
+SELECT * FROM twothousandtwo_table;
+
+-- Table for 2003
+SELECT hpi_type, hpi_flavor, frequency, level, place_name, 
+place_id, yr, period, index_nsa, index_sa
+INTO twothousandthree_table
+FROM hpitype
+WHERE (place_id BETWEEN '2003' AND '2003');
+
+SELECT * FROM twothousandthree_table;
+
+-- Table for 2004
+SELECT hpi_type, hpi_flavor, frequency, level, place_name, 
+place_id, yr, period, index_nsa, index_sa
+INTO twothousandfour_table
+FROM hpitype
+WHERE (place_id BETWEEN '2004' AND '2004');
+
+SELECT * FROM twothousandfour_table;
+
+-- Table for 2005
+SELECT hpi_type, hpi_flavor, frequency, level, place_name, 
+place_id, yr, period, index_nsa, index_sa
+INTO twothousandfive_table
+FROM hpitype
+WHERE (place_id BETWEEN '2005' AND '2005');
+
+SELECT * FROM twothousandfive_table;
+
+-- Table for 2006
+SELECT hpi_type, hpi_flavor, frequency, level, place_name, 
+place_id, yr, period, index_nsa, index_sa
+INTO twothousandsix_table
+FROM hpitype
+WHERE (place_id BETWEEN '2006' AND '2006');
+
+SELECT * FROM twothousandsix_table;
+
+-- Table for 2007
+SELECT hpi_type, hpi_flavor, frequency, level, place_name, 
+place_id, yr, period, index_nsa, index_sa
+INTO twothousandseven_table
+FROM hpitype
+WHERE (place_id BETWEEN '2007' AND '2007');
+
+SELECT * FROM twothousandseven_table;
+
+-- Table for 2008
+SELECT hpi_type, hpi_flavor, frequency, level, place_name, 
+place_id, yr, period, index_nsa, index_sa
+INTO twothousandeight_table
+FROM hpitype
+WHERE (place_id BETWEEN '2008' AND '2008');
+
+SELECT * FROM twothousandeight_table;
+
+-- Table for 2009
+SELECT hpi_type, hpi_flavor, frequency, level, place_name, 
+place_id, yr, period, index_nsa, index_sa
+INTO twothousandnine_table
+FROM hpitype
+WHERE (place_id BETWEEN '2009' AND '2009');
+
+SELECT * FROM twothousandnine_table;
+
+-- Table for 2010
+SELECT hpi_type, hpi_flavor, frequency, level, place_name, 
+place_id, yr, period, index_nsa, index_sa
+INTO twothousandten_table
+FROM hpitype
+WHERE (place_id BETWEEN '2010' AND '2010');
+
+SELECT * FROM twothousandten_table;
+
+-- Table for 2011
+SELECT hpi_type, hpi_flavor, frequency, level, place_name, 
+place_id, yr, period, index_nsa, index_sa
+INTO twothousandeleven_table
+FROM hpitype
+WHERE (place_id BETWEEN '2011' AND '2011');
+
+SELECT * FROM twothousandeleven_table;
+
+-- Table for 2012
+SELECT hpi_type, hpi_flavor, frequency, level, place_name, 
+place_id, yr, period, index_nsa, index_sa
+INTO twothousandtwelfth_table
+FROM hpitype
+WHERE (place_id BETWEEN '2012' AND '2012');
+
+SELECT * FROM twothousandtwelfth_table;
+
+-- Table for 2013
+SELECT hpi_type, hpi_flavor, frequency, level, place_name, 
+place_id, yr, period, index_nsa, index_sa
+INTO twothousandthirteen_table
+FROM hpitype
+WHERE (place_id BETWEEN '2013' AND '2013');
+
+SELECT * FROM twothousandthirteen_table;
+
+-- Table for 2014
+SELECT hpi_type, hpi_flavor, frequency, level, place_name, 
+place_id, yr, period, index_nsa, index_sa
+INTO twothousandfourteen_table
+FROM hpitype
+WHERE (place_id BETWEEN '2014' AND '2014');
+
+SELECT * FROM twothousandfourteen_table;
+
+
+-- Table for 2015
+SELECT hpi_type, hpi_flavor, frequency, level, place_name, 
+place_id, yr, period, index_nsa, index_sa
+INTO twothousandfifteen_table
+FROM hpitype
+WHERE (place_id BETWEEN '2015' AND '2015');
+
+SELECT * FROM twothousandfifteen_table;
+
+
+-- Table for 2016
+SELECT hpi_type, hpi_flavor, frequency, level, place_name, 
+place_id, yr, period, index_nsa, index_sa
+INTO twothousandsixteen_table
+FROM hpitype
+WHERE (place_id BETWEEN '2016' AND '2016');
+
+SELECT * FROM twothousandsixteen_table;
+
+-- Table for 2017
+SELECT hpi_type, hpi_flavor, frequency, level, place_name, 
+place_id, yr, period, index_nsa, index_sa
+INTO twothousandseventeen_table
+FROM hpitype
+WHERE (place_id BETWEEN '2017' AND '2017');
+
+SELECT * FROM twothousandseventeen_table;
+
+-- Table for 2018
+SELECT hpi_type, hpi_flavor, frequency, level, place_name, 
+place_id, yr, period, index_nsa, index_sa
+INTO twothousandeightteen_table
+FROM hpitype
+WHERE (place_id BETWEEN '2018' AND '2018');
+
+SELECT * FROM twothousandeightteen_table;
+
+-- Table for 2019
+SELECT hpi_type, hpi_flavor, frequency, level, place_name, 
+place_id, yr, period, index_nsa, index_sa
+INTO twothousandnineteen_table
+FROM hpitype
+WHERE (place_id BETWEEN '2019' AND '2019');
+
+SELECT * FROM twothousandnineteen_table;
+
+-- Table for 2020
+SELECT hpi_type, hpi_flavor, frequency, level, place_name, 
+place_id, yr, period, index_nsa, index_sa
+INTO twothousandtwenty_table
+FROM hpitype
+WHERE (place_id BETWEEN '2020' AND '2020');
+
+SELECT * FROM twothousandtwenty_table;
+
+-- Table for 2021
+SELECT hpi_type, hpi_flavor, frequency, level, place_name, 
+place_id, yr, period, index_nsa, index_sa
+INTO twothousandtwentyone_table
+FROM hpitype
+WHERE (place_id BETWEEN '2021' AND '2021');
+
+SELECT * FROM twothousandtwentyone_table;
+
+-- Table for 2022
+SELECT hpi_type, hpi_flavor, frequency, level, place_name, 
+place_id, yr, period, index_nsa, index_sa
+INTO twothousandtwentytwo_table
+FROM hpitype
+WHERE (place_id BETWEEN '2022' AND '2022');
+
+SELECT * FROM twothousandtwentytwo_table;
+
+
+-- HOUSEHOLD DEBT
+
+
+CREATE TABLE householdDebt (
+	year INT NOT NULL,
+	qtr INT NOT NULL,
+	state_fips INT NOT NULL,
+	low VARCHAR,
+	high VARCHAR
+);
+
+DROP TABLE householdDebt;
+
+SELECT * FROM householdDebt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
