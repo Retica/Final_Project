@@ -1,4 +1,8 @@
 # Final_Project
+<<<<<<< HEAD
+This is the final prodject read me file
+will update later
+=======
 ## First Segment Deliverable 
 
 ### Overview
@@ -43,3 +47,4 @@ Sample of code in SQL is seen below.
 - Machine Learning steps are currently taking place to start analyzing the data that was collected. To compare the trends throughout the years and what lead to previous falls and what trends are currently going on now. 
     
  
+>>>>>>> de01a32b248edc7caa7e2e8c820959f3ea12427c
