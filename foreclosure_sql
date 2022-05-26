@@ -1,0 +1,273 @@
+
+CREATE TABLE foreclosure (
+DATE VARCHAR NOT NULL,
+DRSFRMACBS FLOAT NOT NULL
+);
+
+SELECT * FROM foreclosure;
+
+-- Table for 1991
+
+SELECT date, drsfrmacbs
+INTO ninetyone_table_foreclosure
+FROM foreclosure
+WHERE (date BETWEEN '1991-01-01' AND '1991-10-01');
+
+SELECT * FROM ninetyone_table_foreclosure;
+DROP TABLE ninetyone_table_foreclosure;
+
+-- Table for 1992
+SELECT date, drsfrmacbs
+INTO ninetytwo_table_foreclosure
+FROM foreclosure
+WHERE (date BETWEEN '1992-01-01' AND '199210-01');
+
+SELECT * FROM ninetytwo_table_foreclosure;
+
+--Table for 1993
+SELECT date, drsfrmacbs
+INTO ninetythree_table_foreclosure
+FROM foreclosure
+WHERE (date BETWEEN '1993-01-01' AND '1993-10-01');
+
+SELECT * FROM ninetythree_table_foreclosure;
+
+-- Table for 1994
+SELECT date, drsfrmacbs
+INTO ninetyfour_table_foreclosure
+FROM foreclosure
+WHERE (date BETWEEN '1994-01-01' AND '1994-10-01');
+
+SELECT * FROM ninetyfour_table_foreclosure;
+
+-- Table for 1995
+SELECT date, drsfrmacbs
+INTO ninetyfive_table_foreclosure
+FROM foreclosure
+WHERE (date BETWEEN '1995-01-01' AND '1995-10-01');
+
+SELECT * FROM ninetyfive_table_foreclosure;
+
+-- Table for 1996
+SELECT date, drsfrmacbs
+INTO ninetysix_table_foreclosure
+FROM foreclosure
+WHERE (date BETWEEN '1996-01-01' AND '1996-10-01');
+
+SELECT * FROM ninetysix_table_foreclosure;
+
+-- Table for 1997
+SELECT date, drsfrmacbs
+INTO ninetyseven_table_foreclosure
+FROM foreclosure
+WHERE (date BETWEEN '1997-01-01' AND '1997-10-01');
+
+SELECT * FROM ninetyseven_table_foreclosure
+
+-- Table for 1998
+SELECT date, drsfrmacbs
+INTO ninetyeight_table_foreclosure
+FROM foreclosure
+WHERE (date BETWEEN '1998-01-01' AND '1998-10-01');
+
+SELECT * FROM ninetyeight_table_foreclosure;
+
+-- Table for 1999
+SELECT date, drsfrmacbs
+INTO ninetynine_table_foreclosure
+FROM foreclosure
+WHERE (date BETWEEN '1999-01-01' AND '1999-10-01');
+
+SELECT * FROM ninetynine_table_foreclosure;
+DROP TABLE twothousand_table_foreclosure;
+
+-- Table for 2000
+SELECT date, drsfrmacbs
+INTO twothousand_table_foreclosure
+FROM foreclosure
+WHERE (date BETWEEN '2000-01-01' AND '2000-10-01');
+
+SELECT * FROM twothousand_table_foreclosure;
+
+-- Table for 2001
+SELECT date, drsfrmacbs
+INTO twothousandone_table_foreclosure
+FROM foreclosure
+WHERE (date BETWEEN '2001-01-01' AND '2001-10-01');
+
+SELECT * FROM twothousandone_table_foreclosure;
+
+-- Table for 2002
+SELECT date, drsfrmacbs
+INTO twothousandtwo_table_foreclosure
+FROM foreclosure
+WHERE (date BETWEEN '2002-01-01' AND '2002-10-01');
+
+SELECT * FROM twothousandtwo_table_foreclosure;
+
+-- Table for 2003
+SELECT date, drsfrmacbs
+INTO twothousandthree_table_foreclosure
+FROM foreclosure
+WHERE (date BETWEEN '2003-01-01' AND '2003-10-01');
+
+SELECT * FROM twothousandthree_table_foreclosure;
+
+-- Table for 2004
+SELECT date, drsfrmacbs
+INTO twothousandfour_table_foreclosure
+FROM foreclosure
+WHERE (date BETWEEN '2004-01-01' AND '2004-10-01');
+
+SELECT * FROM twothousandfour_table_foreclosure;
+
+-- Table for 2005
+SELECT date, drsfrmacbs
+INTO twothousandfive_table_foreclosure
+FROM foreclosure
+WHERE (date BETWEEN '2005-01-01' AND '2005-10-01');
+
+SELECT * FROM twothousandfive_table_foreclosure;
+
+-- Table for 2006
+SELECT date, drsfrmacbs
+INTO twothousandsix_table_foreclosure
+FROM foreclosure
+WHERE (date BETWEEN '2006-01-01' AND '2006-10-01');
+
+SELECT * FROM twothousandsix_table_foreclosure;
+
+-- Table for 2007
+SELECT date, drsfrmacbs
+INTO twothousandseven_table_foreclosure
+FROM foreclosure
+WHERE (date BETWEEN '2007-01-01' AND '2007-10-01');
+
+SELECT * FROM twothousandseven_table_foreclosure;
+
+-- Table for 2008
+SELECT date, drsfrmacbs
+INTO twothousandeight_table_foreclosure
+FROM foreclosure
+WHERE (date BETWEEN '2008-01-01' AND '2008-10-01');
+
+SELECT * FROM twothousandeight_table_foreclosure;
+
+-- Table for 2009
+SELECT date, drsfrmacbs
+INTO twothousandnine_table_foreclosure
+FROM foreclosure
+WHERE (date BETWEEN '2009-01-01' AND '2009-10-01');
+
+SELECT * FROM twothousandnine_table_foreclosure;
+
+DROP TABLE twothousandnine_table_foreclosure;
+
+-- Table for 2010
+SELECT date, drsfrmacbs
+INTO twothousandten_table_foreclosure
+FROM foreclosure
+WHERE (date BETWEEN '2010-01-01' AND '2010-10-01');
+
+SELECT * FROM twothousandten_table_foreclosure;
+
+-- Table for 2011
+SELECT date, drsfrmacbs
+INTO twothousandeleven_table_foreclosure
+FROM foreclosure
+WHERE (date BETWEEN '2011-01-01' AND '2011-10-01');
+
+SELECT * FROM twothousandeleven_table_foreclosure;
+
+-- Table for 2012
+SELECT date, drsfrmacbs
+INTO twothousandtwelfth_table_foreclosure 
+FROM foreclosure
+WHERE (date BETWEEN '2012-01-01' AND '2012-10-01');
+
+SELECT * FROM twothousandtwelfth_table_foreclosure;
+
+-- Table for 2013
+SELECT date, drsfrmacbs
+INTO twothousandthirteen_table_foreclosure
+FROM foreclosure
+WHERE (date BETWEEN '2013-01-01' AND '2013-10-01');
+
+SELECT * FROM twothousandthirteen_table_foreclosure;
+
+-- Table for 2014
+SELECT date, drsfrmacbs
+INTO twothousandfourteen_table_foreclosure
+FROM foreclosure
+WHERE (date BETWEEN '2014-01-01' AND '2014-10-01');
+
+SELECT * FROM twothousandfourteen_table_foreclosure;
+
+
+-- Table for 2015
+SELECT date, drsfrmacbs
+INTO twothousandfifteen_table_foreclosure
+FROM foreclosure
+WHERE (date BETWEEN '2015-01-01' AND '2015-10-01');
+
+SELECT * FROM twothousandfifteen_table_foreclosure;
+
+
+-- Table for 2016
+SELECT date, drsfrmacbs
+INTO twothousandsixteen_table_foreclosure
+FROM foreclosure
+WHERE (date BETWEEN '2016-01-01' AND '2016-10-01');
+
+SELECT * FROM twothousandsixteen_table_foreclosure;
+
+-- Table for 2017
+SELECT date, drsfrmacbs
+INTO twothousandseventeen_table_foreclosure
+FROM foreclosure
+WHERE (date BETWEEN '2017-01-01' AND '2017-10-01');
+
+SELECT * FROM twothousandseventeen_table_foreclosure;
+
+-- Table for 2018
+SELECT date, drsfrmacbs
+INTO twothousandeightteen_table_foreclosure
+FROM foreclosure
+WHERE (date BETWEEN '2018-01-01' AND '2018-10-01');
+
+SELECT * FROM twothousandeightteen_table_foreclosure;
+
+-- Table for 2019
+SELECT date, drsfrmacbs
+INTO twothousandnineteen_table_foreclosure
+FROM foreclosure
+WHERE (date BETWEEN '2019-01-01' AND '2019-10-01');
+
+SELECT * FROM twothousandnineteen_table_foreclosure;
+
+-- Table for 2020
+SELECT date, drsfrmacbs
+INTO twothousandtwenty_table_foreclosure
+FROM foreclosure
+WHERE (date BETWEEN '2020-01-01' AND '2020-10-01');
+
+SELECT * FROM twothousandtwenty_table_foreclosure;
+
+-- Table for 2021
+SELECT date, drsfrmacbs
+INTO twothousandtwentyone_table_foreclosure
+FROM foreclosure
+WHERE (date BETWEEN '2021-01-01' AND '2021-10-01');
+
+SELECT * FROM twothousandtwentyone_table_foreclosure;
+
+-- Table for 2022
+SELECT date, drsfrmacbs
+INTO twothousandtwentytwo_table_foreclosure
+FROM foreclosure
+WHERE (date BETWEEN '2022-01-01' AND '2022-10-01');
+
+SELECT * FROM twothousandtwentytwo_table_foreclosure;
+
+
+
