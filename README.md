@@ -53,17 +53,37 @@ While all these methods were attempted, not all of the models gave them the answ
 
 ### Analyzing the Data
 The HPI dataset was also transformed into the average index from each year and put into a graph:
-!!! insert image 
+
+<img width="746" alt="machinelearning_hpi" src="https://user-images.githubusercontent.com/65638310/170892877-b13b697c-1e19-46c7-91c8-db51be0b45cd.png">
+
 <br>
 As well as the foreclosure rates:
-!! insert image 
+<img width="746" alt="machinelearning_foreclosure" src="https://user-images.githubusercontent.com/65638310/170892848-438b0802-2b40-46f3-a5b5-e634a1e5ee61.png">
+
 <br>
+We also looked at household debt rates:
+
+<img width="746" alt="machinelearning_debt" src="https://user-images.githubusercontent.com/65638310/170892860-5050e915-6f18-4efa-9e97-83dadefd4ec4.png">
+
+ 
+<br>
+
 
 Viewing the averages shows the passage of time and how drastic the changes are in one image. This gave the team the idea to compare them and then generate a model that could predict the next few years. 
 <br>
 
 The most successful models were Random Forest Classifiers and PCA. Logisitic Regression
+HPI and foreclosure
 !!!! insert more here
+
+<img width="746" alt="machinelearning_hpi_foreclosure" src="https://user-images.githubusercontent.com/65638310/170892903-153498be-cbc2-45c8-8541-2a4a8d39104f.png">
+
+HPI and household income
+!!!! insert more here
+
+
+<img width="746" alt="machinelearning_hpi_and_debt" src="https://user-images.githubusercontent.com/65638310/170892915-751403bb-9620-4404-a2a6-a52596e8db0a.png">
+
 
 ### Limitations 
 Neural Networks were not able to give the team what they were looking for. 
