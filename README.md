@@ -3,10 +3,10 @@
 ## Topic Selection
 For this project, the topic the team selected was one that is current and affects us all. The housing market is one that all team members are interested in, and the status of the market affects the economic state of the country and therefore, every aspect of people's lives. The cost of houses, mortgage rates, household income and debt, and foreclosure rates are some of the factors to be considered. 
 <br>
-Additionally, the housing market crash of 2008 is an event that no one wants repeated. With inflation and rising gas prices, considering the 2008 crash is vital to this analysis. Researching the cause of the 2008 crash led the team to an article called <a href= "https://www.uwp.edu/learn/departments/economics/upload/gwartney-summary-of-financial-crisis.pdf" target="_blank"> "The Crash of 2008: Causes and Lessons to be Learned"</a>. Reading through this confirmed the factors the team was looking at are the correct ones. 
+Additionally, the housing market crash of 2008 is an event that no one wants repeated. With inflation and rising gas prices, considering the 2008 crash is vital to this analysis. Researching the cause of the 2008 crash led the team to an article called <a href= "https://www.uwp.edu/learn/departments/economics/upload/gwartney-summary-of-financial-crisis.pdf" target= "_blank"> "The Crash of 2008: Causes and Lessons to be Learned"</a>. Reading through this confirmed the factors the team was looking at are the correct ones. 
 
 ### Presentation 
-You may view the team's presentation <a href="https://docs.google.com/presentation/d/1mFdGQxLgh6vyrf8ICaeMgpGHqsTdZ5wPPCPurxvz_3Q/edit?usp=sharing" target="_blank">here</a>.
+You may view the team's presentation <a href="https://docs.google.com/presentation/d/1mFdGQxLgh6vyrf8ICaeMgpGHqsTdZ5wPPCPurxvz_3Q/edit?usp=sharing" target= "_blank">here</a>.
 ## Questions to Consider and Data Sources
 The main question is whether or not the housing market has the potential to crash again. As well as the following questions:
 
