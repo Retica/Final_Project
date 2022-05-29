@@ -72,14 +72,13 @@ This analysis was done with a handul of datasets. There are many other data sour
 Data from the HPI dataset was also dropped due to potential overfitting, after running the machine learning models with the data. Although it would be great to see which parts of the United States has differences in prices, mortgages, detb, etc. it was not feasible for the team to complete and get an accurate analysis. 
 <br>
 
-There are other variables that might not have quanitifiable data to analyze, such as the recent (May 2022) issues with Ukraine and Russia. This could affect housing in ways that are yet unknown. After the 2008 crash, laws were passed to ensure that this wouldn't happen again, but how has the effect of those laws changed in the last 15 years? Even with an analysis like this one, the future is still unknown are there are other factors that will affect the results of this dataset that cannot be predicted. 
-
-
-
 
 ## Results
 
+The analysis shows that the market has the potential to crash again. The HPI is four times what it was in 1991. Inflation affects everyone and will have a ripple effect on the market. 
 
-### Presentation
-    Link to our developing presentation: https://docs.google.com/presentation/d/1mFdGQxLgh6vyrf8ICaeMgpGHqsTdZ5wPPCPurxvz_3Q/edit?usp=sharing
+## Dashboard
+
+## Final Thoughts 
     
+There are other variables that might not have quanitifiable data to analyze, such as the recent (May 2022) issues with Ukraine and Russia. This could affect housing in ways that are yet unknown. After the 2008 crash, laws were passed to ensure that this wouldn't happen again, but how has the effect of those laws changed in the last 15 years? Even with an analysis like this one, the future is still unknown are there are other factors that will affect the results of this dataset that cannot be predicted. 
