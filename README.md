@@ -1,24 +1,30 @@
-# Final_Project
-<<<<<<< HEAD
-This is the final prodject read me file
-will update later
-=======
-## First Segment Deliverable 
+# Michigan State University Data Analytics Final Project
 
-### Overview
-<!--Project Overview: This info should be in the README.md -->
-### Overview
-* Selected topic: Analysis of house market crash in 2008 and current trends. We will look at the trends from 2008 and compare them to current trends. <br>
-* Reason they selected the topic: Our group has members who would like to buy homes in the near future . With  home prices rising drastically, we want to investigate if there will be a house market crash that was similar to 2008. <br>
-* Description of the source of data: The data was sourced from     
+## Topic Selection
+For this project, the topic the team selected was one that is current and affects us all. The housing market is one that all team members are interested in, and the status of the market affects the economic state of the country and therefore, every aspect of people's lives. The cost of houses, mortgage rates, household income and debt are some of the factors to be considered. 
+<br>
+Additionally, the housing market crash of 2008 is an event that no one wants repeated. With inflation and rising gas prices, considering the 2008 crash is vital to this analysis. 
+
+## Questions to Consider and Data Sources
+The main question is whether or not the housing market has the potential to crash again. As well as the following questions:
+
+- What trends lead to the 2008 crash? 
+- What was done to prevent another crash? 
+- What current trends are repeating? 
+- How do they line up with 2008 trends? 
+- What new trends are prominent?
       
+ Questions will be answered using data sourced from: 
+ 
+ - https://www.fhfa.gov/DataTools/Downloads/Pages/House-Price-Index-Datasets.aspx
 
-        https://www.fhfa.gov/DataTools/Downloads/Pages/House-Price-Index-Datasets.aspx
+ - https://catalog.data.gov/dataset?q=fhfa
 
-        https://catalog.data.gov/dataset?q=fhfa
+ - https://www.federalreserve.gov/releases/z1/dataviz/household_debt/state/map/#year:2020
 
-  <br>
-* Questions they hope to answer with the data: Will we have another crash in the near future making home buying more affordable? Will home prices drop at the same rate as it did in 2008? What new trends are prominent? Our analysis will help determine the answers to these questions.  
+ - Federal Reserve Economic Data (FRED) fred.stlouisfed.org
+
+
 
 ### Database
 Down below is a sample of data using SQL.
