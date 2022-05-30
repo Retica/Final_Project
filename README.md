@@ -6,7 +6,7 @@ For this project, the topic the team selected was one that is current and affect
 Additionally, the housing market crash of 2008 is an event that no one wants repeated. With inflation and rising gas prices, considering the 2008 crash is vital to this analysis. Researching the cause of the 2008 crash led the team to an article called <a href= "https://www.uwp.edu/learn/departments/economics/upload/gwartney-summary-of-financial-crisis.pdf" target= "_blank"> "The Crash of 2008: Causes and Lessons to be Learned"</a>. Reading through this confirmed the factors the team was looking at are the correct ones. 
 
 ### Presentation 
-You may view the team's presentation <a href="https://docs.google.com/presentation/d/1mFdGQxLgh6vyrf8ICaeMgpGHqsTdZ5wPPCPurxvz_3Q/edit?usp=sharing" target= "_blank">here</a>.
+You may view the team's presentation <a href="https://docs.google.com/presentation/d/1AfdtdySqur9ehjTxvcnTzLTNBDWX6JnLH4DBKe0W3bI/edit#slide=id.g96c5e74a8e_0_1339" target= "_blank">here</a>.
 ## Questions to Consider and Data Sources
 The main question is whether or not the housing market has the potential to crash again. As well as the following questions:
 
@@ -95,9 +95,12 @@ Data from the HPI dataset was also dropped due to potential overfitting, after r
 
 ## Results
 
-The analysis shows that the market has the potential to crash again. The HPI is four times what it was in 1991. Inflation affects everyone and will have a ripple effect on the market. 
+The analysis shows that the market has the potential to crash again in the near future. The HPI is four times what it was in 1991. Currently, 2022 shows that it is in class 2 compared to class 1 the couple of years before and on 2008. The foreclosure rates compared are also in class 2 for 2022 and class 1 in 2008. Once again in 2008 compared to 2022, we are one class difference. The foreclosure rates in 2022 is in class 3 compared to 2008 which is in class 2. 
+When looking at the machine learning module for HPI and foreclosure, we can see that the classes are similar in results as HPI and household income. 
 
 ## Dashboard
+
+
 
 ## Final Thoughts 
     
