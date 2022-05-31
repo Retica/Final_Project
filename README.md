@@ -23,6 +23,8 @@ The main question is whether or not the housing market has the potential to cras
  - https://catalog.data.gov/dataset?q=fhfa
 
  - https://www.federalreserve.gov/releases/z1/dataviz/household_debt/state/map/#year:2020
+ 
+ - https://www.fincen.gov/fincen-mortgage-fraud-sar-database
 
  - Federal Reserve Economic Data (FRED) fred.stlouisfed.org
 
@@ -74,12 +76,12 @@ Viewing the averages shows the passage of time and how drastic the changes are i
 
 The most successful models were Random Forest Classifiers and PCA. Logisitic Regression
 HPI and foreclosure
-!!!! insert more here
+
 
 <img width="746" alt="machinelearning_hpi_foreclosure" src="https://user-images.githubusercontent.com/65638310/170892903-153498be-cbc2-45c8-8541-2a4a8d39104f.png">
 
-HPI and household income
-!!!! insert more here
+HPI and Household Income
+
 
 
 <img width="746" alt="machinelearning_hpi_and_debt" src="https://user-images.githubusercontent.com/65638310/170892915-751403bb-9620-4404-a2a6-a52596e8db0a.png">
@@ -100,7 +102,7 @@ When looking at the machine learning module for HPI and foreclosure, we can see 
 
 ## Dashboard
 
-
+https://public.tableau.com/app/profile/benjamin.j.carter/viz/HousingMarketAnalysis_16538884963830/HousingMarketDataStory?publish=yes
 
 ## Final Thoughts 
     
