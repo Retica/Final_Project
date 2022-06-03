@@ -74,7 +74,7 @@ We also looked at household debt rates:
 Viewing the averages shows the passage of time and how drastic the changes are in one image. This gave the team the idea to compare them and then generate a model that could predict the next few years. 
 <br>
 
-The most successful models were Random Forest Classifiers and PCA. Logisitic Regression
+The most successful models were Random Forest Classifiers and PCA. 
 HPI and foreclosure
 
 
